@@ -1208,7 +1208,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h25/index.m3u8?app_type=web&userid=4r
 http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Motorvision_TV_HD
 ########################################  OTHER SPORTS ########################################
 
-#EXTINF:-1 group-title="MOTO SPORTS" tvg-logo="https://dl.dropbox.com/scl/fi/cy3d92xlchf91uwka36n6/Sportv.png?rlkey=yebzx815ligluky8rxlpzwilb&dl=0", SPORTV 3
+#EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://dl.dropbox.com/scl/fi/cy3d92xlchf91uwka36n6/Sportv.png?rlkey=yebzx815ligluky8rxlpzwilb&dl=0", SPORTV 3
 http://assista.pro:80/0333686557/Vilamariante1/125402
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/e6vlhb82t8urfo3/adsports1.png", ABU DHABI SPORTS 1
@@ -1484,7 +1484,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="DISCOVERY X-PLORER", NASA TV Media *
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/47/55/02/47550256a2f3d8793b8eb5d9292a5c29.jpg group-title="DISCOVERY X-PLORER"", Animal Planet
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/47/55/02/47550256a2f3d8793b8eb5d9292a5c29.jpg" group-title="DISCOVERY X-PLORER"", Animal Planet
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/discovery-channel-logos-704165.png" group-title="DISCOVERY X-PLORER", Discovery Channel *
@@ -1757,7 +1757,7 @@ https://dl.dropbox.com/s/lf8qd556s3y8eut/NOAH%20-%20Bintang%20di%20Surga%20%28Of
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
 https://dl.dropbox.com/s/qvk7o0a6jqy6v1a/Untukmu%20Selamanya%20-%20UNGU%20Studio%20Session.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
 https://dl.dropbox.com/s/ynarkedyym8fe1m/PADI%20REBORN%20-%20TERBAKAR%20CEMBURU.mp4?dl=0.m3u8
 
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
@@ -1809,16 +1809,16 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="WEST MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png", Trace Urban5
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XITEROCK" tvg-name="XITEROCK" tvg-logo="" group-title="WEST MUSIC", XITE ROCK
+#EXTINF:-1 tvg-id="XITEROCK" tvg-name="XITEROCK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfcVJ4UcBoh0aYSCv9PLoTplK55pHGL5gijskmegOFhq2AoWcvilXcLErqhJh-qypIFM&usqp=CAU" group-title="WEST MUSIC", XITE ROCK
 https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="WEST MUSIC", Vevo Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="" group-title="WEST MUSIC", IHeart 80s
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GCSFMY0NSKQIjKleHkSEnO_L4dKWyWMSPJloQ_DA3Eyeo7bx1upxLFuh-v7v7Zcs-bU&usqp=CAU" group-title="WEST MUSIC", IHeart 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="" group-title="WEST MUSIC", IHeart 90s
+#EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://w7.pngwing.com/pngs/565/903/png-transparent-iheartradio-iheartmedia-inc-kosf-internet-radio-music-90-s-nineties-thumbnail.png" group-title="WEST MUSIC", IHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 ########################################  INDO MOVIE ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1836,7 +1836,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hnpq00cigu9vyfz/citradrama.png" group-title="INDO MOVIE", CITRA DRAMA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 
-#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="INDO MOVIE", Dunia Sinema
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO MOVIE", Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 ######################################## VOD BIOSKOP INDO ########################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Aku Lupa Aku Luka
