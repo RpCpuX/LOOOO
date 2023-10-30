@@ -20,7 +20,9 @@ http://tvkuonline.my.id:25461/riyad/riyad/17
 
 #EXTINF:0 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR
 https://raw.githubusercontent.com/RpCpuX/KUTIL/main/indosiar.m3u8
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+https://github.com/OngisMbois/iptv/raw/main/indosiar.m3u8
+https://github.com/OngisMbois/iptv/raw/main/indosiar3.m3u8
+https://github.com/OngisMbois/iptv/raw/main/indosiar2.m3u8
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR *
 http://tvkuonline.my.id:25461/riyad/riyad/14
@@ -91,10 +93,11 @@ http://tvkuonline.my.id:25461/riyad/riyad/13
 
 #EXTINF:0 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV 1
 https://raw.githubusercontent.com/RpCpuX/KUTIL/main/sctv.m3u8
+https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
 
 #EXTINF:0 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV 2
 http://210.210.155.37/uq2663/h/h217/01.m3u8
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+https://github.com/OngisMbois/iptv/raw/main/sctv2.m3u8
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV * 
 http://tvkuonline.my.id:25461/riyad/riyad/16
