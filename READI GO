@@ -20,6 +20,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/17
 
 #EXTINF:0 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR
 https://raw.githubusercontent.com/RpCpuX/KUTIL/main/indosiar.m3u8
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR *
 http://tvkuonline.my.id:25461/riyad/riyad/14
@@ -93,6 +94,7 @@ https://raw.githubusercontent.com/RpCpuX/KUTIL/main/sctv.m3u8
 
 #EXTINF:0 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV 2
 http://210.210.155.37/uq2663/h/h217/01.m3u8
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV * 
 http://tvkuonline.my.id:25461/riyad/riyad/16
@@ -759,7 +761,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="RELIGI CHANNEL"  tvg-logo="https://dl.dropbox.com/s/yq2y0nms2wdixox/images%20%282%29.jpeg", REMOFED 21
-
+http://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -2442,6 +2444,7 @@ https://www.googleapis.com/drive/v3/files/1c5j45-zjyV3Rq4mAOoUiJasMbxwfuqVq?alt=
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="VOD WEST MOVIE",Indiana Jones 2023
 https://www.googleapis.com/drive/v3/files/19jdvPI4sQgQGVAam50ny5dbkQF7hcUFm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bQrNm5WIWUpCOwMbyz2PwbM8Lxp.jpg" group-title="VOD WEST MOVIE",Operation Fortune 2023
 https://www.googleapis.com/drive/v3/files/1c4U2TXqhN0J9-xB8iPi-4YW98prvOgwx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -2545,25 +2548,32 @@ https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPj
 http://abf.filmbluray.id/gauugz2
 ######################################## VOD CHINA ########################################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/Rurouni_Kenshin_%282012_film%29_poster.jpg" group-title="VOD CHINA" , Rurouni Kenshin Part I: Origins (2012)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss263.abcztech.com/stream/0/67/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN/hls480/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN480.m3u8
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://ss263.abcztech.com/stream/0/67/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN/hls480/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN480.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtyosz4bvLCPOWApUvQDn1fKtA2_1fsk5cA&usqp=CAU" group-title="VOD CHINA" , Rurouni Kenshin Part II: Kyoto Inferno (2014)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss87.dabeu.com/stream/F/69/Bpi9NB4yFCPC9Nu8hCrH7Lfi13CqFljJ0ch/hls480/Bpi9NB4yFCPC9Nu8hCrH7Lfi13CqFljJ0ch480.m3u8
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://ss87.dabeu.com/stream/F/69/Bpi9NB4yFCPC9Nu8hCrH7Lfi13CqFljJ0ch/hls480/Bpi9NB4yFCPC9Nu8hCrH7Lfi13CqFljJ0ch480.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojNaoMRJSUjouLL7qh5u3A9fpCwpObLl6jg&usqp=CAU" group-title="VOD CHINA" , Rurouni Kenshin Part III: The Legend Ends (2014)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss115.sofafile.com/stream/F/B6/2R8OGKg07TENprORZG0YJWxWnjJ5qkT3pzX/hls480/2R8OGKg07TENprORZG0YJWxWnjJ5qkT3pzX480.m3u8
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://ss115.sofafile.com/stream/F/B6/2R8OGKg07TENprORZG0YJWxWnjJ5qkT3pzX/hls480/2R8OGKg07TENprORZG0YJWxWnjJ5qkT3pzX480.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvlbmp8agT209GHgqMHGvk7GQ-LTpK9SlpQ&usqp=CAU" group-title="VOD CHINA" , Ballerina (2023)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss248.mibenet.com/stream/0/6E/RLP5CBJll6ucNzybwaTRVJMfiyhlc6VXybc/master.m3u8
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://ss248.mibenet.com/stream/0/6E/RLP5CBJll6ucNzybwaTRVJMfiyhlc6VXybc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/The_Moon_%282023_film%29.jpg" group-title="VOD CHINA" , The Moon (2023)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss283.technunz.com/stream/1/A2/HQKLfeMImyqXUsN7GQeuabX8YFKE58P6eS4/master.m3u8
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://ss283.technunz.com/stream/1/A2/HQKLfeMImyqXUsN7GQeuabX8YFKE58P6eS4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zombie-100/images/a/a6/Zom-100-Movie-poster.png/revision/latest/scale-to-width-down/1200?cb=20230803151529" group-title="VOD CHINA" , Zom 100: Bucket List of the Dead (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/ https://ef1.ruby.gift/play/driveid-167070-webrip-1080-terbit21-com-zom-100-bucket-list-of-the-dead-2023.mp4
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-167070-webrip-1080-terbit21-com-zom-100-bucket-list-of-the-dead-2023.mp4
 
 #EXTINF:-1 tvg-logo="https://pic5.iqiyipic.com/image/20230822/45/fa/v_173481132_m_601_en_260_360.jpg" group-title="VOD CHINA" , 72 Hours - Operation Gold (2023)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss83.ahotnews.com/stream/4/C0/PQrew04Me6yATF19KB9yMU31SoOGvWTTdJw/master.m3u8
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://ss83.ahotnews.com/stream/4/C0/PQrew04Me6yATF19KB9yMU31SoOGvWTTdJw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.mydramalist.com/pd2Bpy_4f.jpg" group-title="VOD CHINA" , Flashover (2023)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss126.litvp.com/stream/8/37/fvMUjKTR7crbo8GstETgEMnQgzlCW4L9Vne/master.m3u8
@@ -2585,7 +2595,7 @@ http://210.210.155.37/x6bnqe/s/s38/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://dl.dropboxusercontent.com/s/3xr054htzqtielq/arirang.png", ARIRANG
-http://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#http://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -2593,7 +2603,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="FOODS & KULINER", Eat N Go
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="FOODS & KULINER", Eat N Go
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
