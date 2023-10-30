@@ -1015,6 +1015,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest/scale-to-width-down/200?cb=20111009111240" group-title="WEST CHANNEL & MOVIE", STUDIO UNIVERSAL 
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 ########################################  HBO CHANNEL ########################################
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="HBO CHANNEL", HBO #A
 http://tvkuonline.my.id:25461/riyad/riyad/412
@@ -1661,9 +1664,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/200px-Nick_Jr._Channel_logo.svg.png" group-title="CARTOON KIDZ", NICK JR *
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest/scale-to-width-down/200?cb=20111009111240" group-title="CARTOON KIDZ", STUDIO UNIVERSAL 
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 ########################################  INDO MUSIC ########################################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="INDO MUSIC", Nagaswara Dangdut
 http://jakarta.nagaswarafm.com:8200/stream
@@ -1695,8 +1695,6 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDO MUSIC" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg", Dens ShowBiz
 http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_ShowBiz
 ########################################  VOD MUSIC  ########################################
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="VOD MUSIC", Musik Indonesia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
 
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Biarku Sendiri
 https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
@@ -1734,39 +1732,39 @@ https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Hanya Kamu yang Bisa
 https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8 
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC https://dl.dropbox.com/s/1rzngr31wnwluat/NOAH%20-%20Menghapus%20Jejakmu%20%28feat.%20Rejoz%20TheGROOVE%29%20-%20Official%20Music%20Video.mp4?dl=0.m3u8
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH & THE GROOVE - MENGHAPUS JEJAKMU https://dl.dropbox.com/s/1rzngr31wnwluat/NOAH%20-%20Menghapus%20Jejakmu%20%28feat.%20Rejoz%20TheGROOVE%29%20-%20Official%20Music%20Video.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH - SEPERTI KEMARIN
 https://dl.dropbox.com/s/ohck36vdl607ir2/NOAH%20-%20Seperti%20Kemarin%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH - HIDUP UNTUKMU MATI TAMPAMU
 https://dl.dropbox.com/s/w8hgkydcgwjrt7m/NOAH%20-%20Hidup%20Untukmu%2C%20Mati%20Tanpamu%20%28Official%20Music%20Video%29_001.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD Lewis Capaldi - Someone You Love
 https://dl.dropbox.com/s/9jxgwagm0fo29ax/Lewis%20Capaldi%20-%20Someone%20You%20Loved%20%28Official%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD SHAKIRA - WCup AFRIKA
 https://dl.dropbox.com/s/mohabe9d6p8xpbw/Shakira%20-%20Waka%20Waka%20%28This%20Time%20for%20Africa%29%20%28The%20Official%202010%20FIFA%20World%20Cup%E2%84%A2%20Song%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH - KALA CINTA MENGGODA
 https://dl.dropbox.com/s/gpu0rc3swvx6xcb/NOAH%20-%20Kala%20Cinta%20Menggoda%20%28Official%20Music%20Video%29.mp4?dl=0.m3u
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH - BINTANG DI SURGA
 https://dl.dropbox.com/s/lf8qd556s3y8eut/NOAH%20-%20Bintang%20di%20Surga%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD UNGU - Untukmu Selamanya
 https://dl.dropbox.com/s/qvk7o0a6jqy6v1a/Untukmu%20Selamanya%20-%20UNGU%20Studio%20Session.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD PADI Reborn - Terbakar Cemburu
 https://dl.dropbox.com/s/ynarkedyym8fe1m/PADI%20REBORN%20-%20TERBAKAR%20CEMBURU.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH - SEPARUH AKU
 https://dl.dropbox.com/s/cmgxvpx7pvoj9kr/NOAH%20-%20Separuh%20Aku%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
 https://dl.dropbox.com/s/coeagdazvfr0vpk/km_20220529_720p_001.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD MUSIC
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD AMANDA - ALHAMDULILLAH
 https://dl.dropbox.com/s/j0b599sv6azs9yu/Opick%20ft.%20Amanda%20-%20Alhamdulillah%20%28Lirik%29.mp4?dl=0.m3u8
 ########################################  WEST MUSIC  ########################################
 #EXTINF:-1 group-title="WEST MUSIC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png", MTV Asia HD
@@ -1820,23 +1818,23 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://w7.pngwing.com/pngs/565/903/png-transparent-iheartradio-iheartmedia-inc-kosf-internet-radio-music-90-s-nineties-thumbnail.png" group-title="WEST MUSIC", IHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-########################################  INDO MOVIE ########################################
+########################################  INDO-MLY MOVIE ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/97dmg4rodbnm0gh/imc.png" group-title="INDO MOVIE", IMC
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/97dmg4rodbnm0gh/imc.png" group-title="INDO-MLY MOVIE", IMC
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bmi59ney1ym4ehz8kjy1/Citra-bioskop.jpeg?rlkey=fzi3l47x6wgesjwdhc58hoyaj&dl=0" group-title="INDO MOVIE", CITRA BIOSKOP
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bmi59ney1ym4ehz8kjy1/Citra-bioskop.jpeg?rlkey=fzi3l47x6wgesjwdhc58hoyaj&dl=0" group-title="INDO-MLY MOVIE", CITRA BIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO MOVIE", DUNIA SINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO-MLY MOVIE", DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hnpq00cigu9vyfz/citradrama.png" group-title="INDO MOVIE", CITRA DRAMA
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hnpq00cigu9vyfz/citradrama.png" group-title="INDO-MLY MOVIE", CITRA DRAMA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 
-#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO MOVIE", Dunia Sinema
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO-MLY MOVIE", Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 ######################################## VOD BIOSKOP INDO ########################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Aku Lupa Aku Luka
