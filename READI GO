@@ -133,7 +133,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBa
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png", TVRI 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/fplpsm57no899e8/net.png" group-title="CHANNELS INDONESIA", NET TV 1
 http://210.210.155.37/uq2663/h/h223/01.m3u8
@@ -453,7 +452,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 #EXTINF:-1 group-title="ASIAN CHANNELS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD
 https://1.yurend.xyz/dash-wv/linear/1006/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 ########################################  INDO NEWS BERITA ########################################
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="INDO NEWS BERITA", Antara TV
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
@@ -559,6 +557,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNews
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png", CNA3
 https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -599,13 +598,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/900
 https://1.yurend.xyz/dash-wv/linear/900/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
 
-#EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517", 517 Bloomberg
+#EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517", Bloomberg TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5020
 https://1.yurend.xyz/dash-wv/linear/5020/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 ########################################  WEST NEWS ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1034,7 +1031,6 @@ http://208.115.225.174:14160
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
 #EXTINF:-1 group-title="HBO CHANNEL" tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png", HBO Family
 https://1.yurend.xyz/dash-wv/linear/5053/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #EXTINF:-1  group-title="HBO CHANNEL" tvg-logo="https://dl.dropbox.com/scl/fi/r77dkf5ckg3h5bb2f615j/HBOEXTREM.jpg?rlkey=vsqvri9edpg48nvj9dxi8j0c6&dl=0", HBO Extreme A
 http://208.115.225.174:14165
@@ -2570,7 +2566,8 @@ https://ef1.ruby.gift/play/driveid-167070-webrip-1080-terbit21-com-zom-100-bucke
 https://ss83.ahotnews.com/stream/4/C0/PQrew04Me6yATF19KB9yMU31SoOGvWTTdJw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.mydramalist.com/pd2Bpy_4f.jpg" group-title="VOD CHINA" , Flashover (2023)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ https://ss126.litvp.com/stream/8/37/fvMUjKTR7crbo8GstETgEMnQgzlCW4L9Vne/master.m3u8
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://ss126.litvp.com/stream/8/37/fvMUjKTR7crbo8GstETgEMnQgzlCW4L9Vne/master.m3u8
 ########################################  FOODS & KULINER ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -2617,14 +2614,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
 https://1.yurend.xyz/dash-wv/linear/2300/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 
 #EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png", AFN HD2 *
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 https://1.yurend.xyz/dash-wv/linear/500/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 ########################################  RADIO  ########################################
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO", Prambors
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
@@ -2749,4 +2744,3 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 #EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE NETWORK
 https://1.yurend.xyz/dash-wv/linear/2603/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
