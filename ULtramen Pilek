@@ -295,6 +295,12 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/97dmg4rodbnm0gh/imc.png" group-title="INDO-MLY MOVIE", IMC
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="INDO-MLY MOVIE", DIGIONE
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+#EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="INDO-MLY MOVIE", Digione (Max)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bmi59ney1ym4ehz8kjy1/Citra-bioskop.jpeg?rlkey=fzi3l47x6wgesjwdhc58hoyaj&dl=0" group-title="INDO-MLY MOVIE", CITRA BIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
 
@@ -336,6 +342,8 @@ http://tvkuonline.my.id:25461/riyad/riyad/424
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bbanr59vm07pach/hitsmovies.png", HITS Movies
 http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="FICOM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lyTM_pppzwrO6WpNOA8LsW_IEiqOKpR_vg&usqp=CAU", FICOM CHANNEL https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -946,8 +954,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 group-title="RELIGI CHANNEL"group-title="RELIGI CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/sx0hr3oepuvfop2/muslimtv.png", Muslim TV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
+#EXTINF:0 tvg-id="MadaniTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGn4No9Iv0hWVtFxa_nb588Ux8d3bvyNHrQ&usqp=CAU" group-title="RELIGI CHANNEL",Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="AlBinaaTV.id" tvg-logo="https://i.imgur.com/MTR4GuF.png" group-title="RELIGI CHANNEL",Al Binaa TV
+https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8
+
+#EXTINF:-1 tvg-logo="https://aulatv.co.id/wp-content/uploads/2022/11/AULA-TV-FINAL-300x160.png" group-title="RELIGI CHANNEL", AULA TV
+https://v2.siar.us/amtvsby/live/playlist.m3u8
+
 #EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/1sbyfrehiy3cvk4/rodjatv.png", RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:0 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="RELIGI CHANNEL",Alwafa Tarim TV (Am Media)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="RELIGI CHANNEL",Izzah TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1040,9 +1063,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wowymocfn207vfb/bizlifestyle.png" group-title="LOKAL ENTERTAIN",Biznet Lifestile
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="LOKAL ENTERTAIN", DIGIONE
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1055,8 +1075,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #EXTINF:-1 group-title="LOKAL ENTERTAIN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png", OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="LOKAL ENTERTAIN", Digione (Max)5
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 ########################################  WEST ENTERTAIN ########################################
 #EXTINF:-1 tvg-id="blueantext" group-title="WEST ENTERTAIN" tvg-logo="https://dl.dropboxusercontent.com/s/0ehvpuw8ln8owf2/rockentertainment.png" , ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8
