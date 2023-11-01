@@ -283,6 +283,193 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 
 #EXTINF:-1tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="LOKAL CHANNELS", METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+########################################  WEST CHANNEL & MOVIE ########################################
+#EXTINF:-1 tvg-id="blueantext" group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" , ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/bhzmtx72l2sbvu6/KBS%20Drama.jpg" group-title="ASIAN CHANNELS", KBS DRAMA              
+https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title=""WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg", AXN East Asia 2
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="cinemaxasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png", Cinemax
+http://tvkuonline.my.id:25461/riyad/riyad/424
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bbanr59vm07pach/hitsmovies.png", HITS Movies
+http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/2hore941e511wdk/hits.png", HITS
+http://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png", Galaxy
+http://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/6bk8lpqze5bnqac/Screenshot_20230215_141403_Gallery.jpg" group-title="WEST CHANNEL & MOVIE", Galaxy Premium
+http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/81800hd33epuddg/axn.png", AXN
+http://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/2emaxo9wj7qbatg/thrill.png", THRILL
+http://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bjjyw99hfifpumo/cinemaworld.png", Cinema World 2
+http://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema
+http://210.210.155.37/x6bnqe/h/h192/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="mycinema.id" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/ifu2pnbyjgz1odj/Cinemachi.jpg", Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/7zjahgsxr9e3zmt/Cinemachi%20action.jpeg", Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/ah1zsujlr9pjsh7/Cinemachi%20max.jpg", Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/h5mxqrezr3czvc8/Cinemachi%20extra.jpg", Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/akkdiokk54g6oel/moviesphere.png" group-title="WEST CHANNEL & MOVIE", MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="WEST CHANNEL & MOVIE", PARAMOUNT
+https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="WEST CHANNEL & MOVIE", Warner TV (*)
+http://208.115.225.174:14132
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bc0ba2ddc1c12bf2b586815f4e15a6eb.png" group-title="WEST CHANNEL & MOVIE", Fox (*)
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1c044d8eee920f7fe5bf0a8f21808612.png" group-title="WEST CHANNEL & MOVIE", SYFY (*)
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg", HITS 2
+https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png", Galaxy Premium 2
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png", Galaxy 2
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.png", Rock Action 2
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png", Cinema World
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="WEST CHANNEL & MOVIE", Cinemax 2
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png", Cinemachi 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png", Cinemachi Extra 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest/scale-to-width-down/200?cb=20111009111240" group-title="WEST CHANNEL & MOVIE", STUDIO UNIVERSAL 
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+########################################  HBO CHANNEL ########################################
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="HBO CHANNEL", HBO #A
+http://tvkuonline.my.id:25461/riyad/riyad/412
+
+#EXTINF:-1  group-title="HBO CHANNEL" tvg-logo="https://dl.dropbox.com/scl/fi/j326l5cs4an2153f6zmuk/HBO.jpg?rlkey=utixb5ydc2zabqvaq6xlz4d55&dl=0", HBO #B
+http://208.115.225.174:14136
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="HBO CHANNEL", HBO Hits #A
+http://tvkuonline.my.id:25461/riyad/riyad/413
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="HBO CHANNEL", HBO SIGNATURE #A
+http://tvkuonline.my.id:25461/riyad/riyad/414
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png", HBO Signature* B
+http://208.115.225.174:14160
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png", HBO Family
+https://1.yurend.xyz/dash-wv/linear/5053/default_primary.mpd
+
+#EXTINF:-1  group-title="HBO CHANNEL" tvg-logo="https://dl.dropbox.com/scl/fi/r77dkf5ckg3h5bb2f615j/HBOEXTREM.jpg?rlkey=vsqvri9edpg48nvj9dxi8j0c6&dl=0", HBO Extreme A
+http://208.115.225.174:14165
+
+#EXTINF:-1  group-title="HBO CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png", HBO Extreme* B
+http://208.115.225.174:14165
 ########################################  ASIAN CHANNELS ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -355,14 +542,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qg4jvzdgooy7hq2/k%2B.png" group-title="ASIAN CHANNELS", K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/bhzmtx72l2sbvu6/KBS%20Drama.jpg" group-title="ASIAN CHANNELS", KBS DRAMA              
-https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="ASIAN CHANNELS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg", AXN East Asia 2
-https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -856,187 +1035,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="LOKAL ENTERTAIN", Digione (Max)5
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-
-########################################  WEST CHANNEL & MOVIE ########################################
-
-#EXTINF:-1 tvg-id="blueantext" group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" , ROCK ACTION
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="cinemaxasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png", Cinemax
-http://tvkuonline.my.id:25461/riyad/riyad/424
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bbanr59vm07pach/hitsmovies.png", HITS Movies
-http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/2hore941e511wdk/hits.png", HITS
-http://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png", Galaxy
-http://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/6bk8lpqze5bnqac/Screenshot_20230215_141403_Gallery.jpg" group-title="WEST CHANNEL & MOVIE", Galaxy Premium
-http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/81800hd33epuddg/axn.png", AXN
-http://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/2emaxo9wj7qbatg/thrill.png", THRILL
-http://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bjjyw99hfifpumo/cinemaworld.png", Cinema World 2
-http://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema
-http://210.210.155.37/x6bnqe/h/h192/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="mycinema.id" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/ifu2pnbyjgz1odj/Cinemachi.jpg", Cinemachi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/7zjahgsxr9e3zmt/Cinemachi%20action.jpeg", Cinemachi Action
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/ah1zsujlr9pjsh7/Cinemachi%20max.jpg", Cinemachi Max
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/h5mxqrezr3czvc8/Cinemachi%20extra.jpg", Cinemachi Xtra
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/akkdiokk54g6oel/moviesphere.png" group-title="WEST CHANNEL & MOVIE", MOVIE SPHERE
-https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="WEST CHANNEL & MOVIE", PARAMOUNT
-https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="WEST CHANNEL & MOVIE", Warner TV (*)
-http://208.115.225.174:14132
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bc0ba2ddc1c12bf2b586815f4e15a6eb.png" group-title="WEST CHANNEL & MOVIE", Fox (*)
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1c044d8eee920f7fe5bf0a8f21808612.png" group-title="WEST CHANNEL & MOVIE", SYFY (*)
-http://50.7.137.106:8080/SYFY/index.m3u8?token=test
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg", HITS 2
-https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png", Galaxy Premium 2
-https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png", Galaxy 2
-https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.png", Rock Action 2
-https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png", Cinema World
-https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="WEST CHANNEL & MOVIE", Cinemax 2
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png", Cinemachi 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png", Cinemachi Extra 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest/scale-to-width-down/200?cb=20111009111240" group-title="WEST CHANNEL & MOVIE", STUDIO UNIVERSAL 
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-########################################  HBO CHANNEL ########################################
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="HBO CHANNEL", HBO #A
-http://tvkuonline.my.id:25461/riyad/riyad/412
-
-#EXTINF:-1  group-title="HBO CHANNEL" tvg-logo="https://dl.dropbox.com/scl/fi/j326l5cs4an2153f6zmuk/HBO.jpg?rlkey=utixb5ydc2zabqvaq6xlz4d55&dl=0", HBO #B
-http://208.115.225.174:14136
-
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="HBO CHANNEL", HBO Hits #A
-http://tvkuonline.my.id:25461/riyad/riyad/413
-
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="HBO CHANNEL", HBO SIGNATURE #A
-http://tvkuonline.my.id:25461/riyad/riyad/414
-
-#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png", HBO Signature* B
-http://208.115.225.174:14160
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-#EXTINF:-1 group-title="HBO CHANNEL" tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png", HBO Family
-https://1.yurend.xyz/dash-wv/linear/5053/default_primary.mpd
-
-#EXTINF:-1  group-title="HBO CHANNEL" tvg-logo="https://dl.dropbox.com/scl/fi/r77dkf5ckg3h5bb2f615j/HBOEXTREM.jpg?rlkey=vsqvri9edpg48nvj9dxi8j0c6&dl=0", HBO Extreme A
-http://208.115.225.174:14165
-
-#EXTINF:-1  group-title="HBO CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png", HBO Extreme* B
-http://208.115.225.174:14165
 ########################################  WEST ENTERTAIN ########################################
 #EXTINF:-1 tvg-id="blueantext" group-title="WEST ENTERTAIN" tvg-logo="https://dl.dropboxusercontent.com/s/0ehvpuw8ln8owf2/rockentertainment.png" , ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8
