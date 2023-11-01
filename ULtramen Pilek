@@ -1143,6 +1143,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/PgqoSLuSeI13JrzdrJKt67ONFYQ=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/9430/world-cup-1-cover-e04970.jpg", WORLD CUP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", PremierTV (V*)
