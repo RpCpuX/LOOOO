@@ -290,7 +290,7 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg", AXN East Asia 2
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg", AXN East Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="cinemaxasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png", Cinemax
