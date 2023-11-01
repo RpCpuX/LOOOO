@@ -1695,7 +1695,10 @@ http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 ########################################  INDO MUSIC ########################################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="INDO MUSIC", Nagaswara Dangdut
 http://jakarta.nagaswarafm.com:8200/stream
- 
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="INDO MUSIC", MUSICA TV
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1698880600~acl=/hls-p/ingest_7619_*/*~hmac=bae90e9a742a8c09373a0474acc26b51577029cef7341f4f21f831c3d4d610d4/hls-p/ingest_7619_360p/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
