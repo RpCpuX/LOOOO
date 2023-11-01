@@ -730,13 +730,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKa
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/1sbyfrehiy3cvk4/rodjatv.png", RODJA TV
-http://210.210.155.37/uq2663/h/h233/01.m3u8
 https://rodjatv.com/rodjatv/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="RELIGI CHANNEL"  tvg-logo="https://dl.dropboxusercontent.com/s/9r0wxfu0iyp0cq1/tv9.png", TV 9 Nusantara
-#http://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -762,6 +760,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="RELIGI CHANNEL"  tvg-logo="https://dl.dropbox.com/s/yq2y0nms2wdixox/images%20%282%29.jpeg", REMOFED 21
 http://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -784,7 +783,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGI CHANNEL", Khazanah (T*) 5 
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
@@ -792,9 +790,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113/
 #EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", TV 5 ALHIJRAH
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/1113/default.mpd
 https://1.yurend.xyz/dash-wv/linear/1113/default_primary.mpd
-https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 ########################################  LOKAL ENTERTAIN ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
