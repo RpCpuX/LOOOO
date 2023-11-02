@@ -9,7 +9,7 @@
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png", ANTV 1
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png", ANTV 2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="CHANNELS INDONESIA", ANTV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="CHANNELS INDONESIA", ANTV Backup
