@@ -9,9 +9,11 @@
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png", ANTV 1
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="CHANNELS INDONESIA", ANTV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="CHANNELS INDONESIA", ANTV Backup
 http://tvkuonline.my.id:25461/riyad/riyad/17
 
@@ -24,9 +26,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 #https://raw.githubusercontent.com/RpCpuX/KUTIL/main/indosiar.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="CHANNELS INDONESIA", INDOSIAR 720p
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR Backup
 http://tvkuonline.my.id:25461/riyad/riyad/14
 
@@ -101,9 +105,11 @@ https://iptvme.xyz/vid/hls.m3u8?id=204
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV 2
 http://210.210.155.37/uq2663/h/h217/01.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 480p
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 720p
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -128,6 +134,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/15
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/v0c8ypclystuwkg/tvone.png", TVONE 1
 http://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/v0c8ypclystuwkg/tvone.png" group-title="CHANNELS INDONESIA", TVONE 2
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
@@ -146,6 +153,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fplpsm57no899e8/net.png" group-title="CHANNELS INDONESIA", NET TV 1
 http://210.210.155.37/uq2663/h/h223/01.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fplpsm57no899e8/net.png" group-title="CHANNELS INDONESIA", NET TV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
@@ -236,6 +244,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/siolbyggijbn3f9/magna.png", MAGNA TV
 http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
@@ -252,6 +261,7 @@ http://210.210.155.37/uq2663/h/h210/01.m3u8
 #https://raw.githubusercontent.com/RpCpuX/KUTILmain/moji.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png" group-title="LOKAL CHANNELS", MOJI 720p
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
@@ -264,6 +274,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/gw7a9w0miy795vy/rtv.png", RTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/gw7a9w0miy795vy/rtv.png", RTV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 
@@ -291,6 +302,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-name="TV" tvg-logo="https://dl.dropbox.com/s/f6sxdmd5b8k51op/UG%20Tv.jpeg" group-title="LOKAL CHANNELS", UGTV 
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg", MAGNA TV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
@@ -338,6 +350,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 ########################################  WEST CHANNEL & MOVIE ########################################
 #EXTINF:-1 tvg-id="blueantext" group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" , ROCK ACTION HD
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 tvg-id="blueantext" group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" , ROCK ACTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -361,10 +376,12 @@ http://tvkuonline.my.id:25461/riyad/riyad/424
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bbanr59vm07pach/hitsmovies.png", HITS Movies
 http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bbanr59vm07pach/hitsmovies.png", HITS Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="FICOM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lyTM_pppzwrO6WpNOA8LsW_IEiqOKpR_vg&usqp=CAU", FICOM CHANNEL https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="FICOM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lyTM_pppzwrO6WpNOA8LsW_IEiqOKpR_vg&usqp=CAU", FICOM CHANNEL
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -396,9 +413,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/2emaxo9wj7qbatg/thrill.png", THRILL
 http://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/2emaxo9wj7qbatg/thrill.png", THRILL HD
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bjjyw99hfifpumo/cinemaworld.png", Cinema World 2
 http://op-group1-swiftservehd-1.dens.tv/h/h04/01.m3u8
 
@@ -447,6 +466,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="WEST CHANNEL & MOVIE", Warner TV (*)
 http://208.115.225.174:14132
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="WEST CHANNEL & MOVIE", HITS 2
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 
@@ -462,6 +482,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png", Galaxy 2
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" group-title="WEST CHANNEL & MOVIE", Cinema World
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
@@ -537,12 +558,14 @@ http://tvkuonline.my.id:25461/riyad/riyad/414
 #EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png", HBO Signature* B
 http://208.115.225.174:14160
 ########################################  ASIAN CHANNELS ########################################
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fcrtqmoyt0pfb29/ccm.png" group-title="ASIAN CHANNELS", Celestial Classic Movies
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zjecc4d8dq1zrc7/sbs.png" group-title="ASIAN CHANNELS", SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/myjkc30le0fysph/cm.png" group-title="ASIAN CHANNELS", Celestial Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
@@ -973,6 +996,7 @@ https://v2.siar.us/amtvsby/live/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/1sbyfrehiy3cvk4/rodjatv.png", RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/1sbyfrehiy3cvk4/rodjatv.png" group-title="RELIGI CHANNEL", RODJA TV
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
@@ -1248,6 +1272,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h25/index.m3u8?app_type=web&userid=4r
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="MOTO SPORTS", REDBULL TV *
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="MOTO SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503250_tvchannels_v1.jpg", Motorvision TV *
 http://op-group1-swiftservehd-1.dens.tv/h/h09/02.m3u8
 
@@ -1615,7 +1640,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png", CBeebies Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2178,13 +2202,16 @@ https://www.googleapis.com/drive/v3/files/1X50_Pk5SDrfoXe_ol7RwiD5xHCScSQPS?alt=
 https://storage.googleapis.com/c0bdaf0bc060292fb3a.appspot.com/05ad4ec7756d92921409243dcd0bbc75_1668776586.mp4?sumber=awal_storage
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA4MWEwMWItZDMwZi00ZjEwLThjZTAtNzdkYjEzMmI3OTI2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="VOD BIOSKOP INDO", Hello Ghost (2023)
-#EXTVLCOPT:http-referrer=https://172.96.161.72/ http://23.226.71.77/8nhyxogPYzlvE9BL05wGBxj5f-0QZtfqeThfQV-giNEul1D5fH3EOxdx4mlhU7d9pjALlyINpaJ4Y82we04csA/OzmVaYuszNJp9IL9KxoUTzsLOUPF5lee4d0Z5WsYh30/video.m3u8
+#EXTVLCOPT:http-referrer=https://172.96.161.72/
+http://23.226.71.77/8nhyxogPYzlvE9BL05wGBxj5f-0QZtfqeThfQV-giNEul1D5fH3EOxdx4mlhU7d9pjALlyINpaJ4Y82we04csA/OzmVaYuszNJp9IL9KxoUTzsLOUPF5lee4d0Z5WsYh30/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/77/Poster_Waktu_Maghrib.jpg" group-title="VOD BIOSKOP INDO", Waktu Magrib (2023)
-#EXTVLCOPT:http-referrer=https://172.96.161.72/ http://23.226.71.77/u-w0UgvjgzDvtw-QKwjlTqpQAno00D5GsrQyavBc02xeGCs8Kxzy2ep5JFg1dm_pjOt7w1UyRt-7iHyVs2upQg/la6kXc8j-ooiZY2ZB0I7Acmcw6p8BSZJEN3YlEo9NRU/video.m3u8
+#EXTVLCOPT:http-referrer=https://172.96.161.72/
+http://23.226.71.77/u-w0UgvjgzDvtw-QKwjlTqpQAno00D5GsrQyavBc02xeGCs8Kxzy2ep5JFg1dm_pjOt7w1UyRt-7iHyVs2upQg/la6kXc8j-ooiZY2ZB0I7Acmcw6p8BSZJEN3YlEo9NRU/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQr7f36OV4QDjzYqLhsVirR5EbZBGv1aqesQ&usqp=CAU" group-title="VOD BIOSKOP INDO", Hati suhita (2023)
-#EXTVLCOPT:http-referrer=https://172.96.161.72/ http://23.226.71.77/xQEqm-h3vdKKYU2pYjynuF40yszyhF5VrhbJ614viQC-HU3bEOTttIzCqSPHwYc5xUDq7YX7BlRCf25bd7kg7Q/HM5DxaIrGcZMrRaN3qmMtj9r5i6X6b0tBj-dDPWh10s/video.m3u8
+#EXTVLCOPT:http-referrer=https://172.96.161.72/
+http://23.226.71.77/xQEqm-h3vdKKYU2pYjynuF40yszyhF5VrhbJ614viQC-HU3bEOTttIzCqSPHwYc5xUDq7YX7BlRCf25bd7kg7Q/HM5DxaIrGcZMrRaN3qmMtj9r5i6X6b0tBj-dDPWh10s/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zmMvaC_r0IqA7OtUcc6mcXvw7pVVtEg59A&usqp=CAU" group-title="VOD BIOSKOP INDO" , Yang Patah Tumbuh, Yang Hilang Berganti (2023) 
 #EXTVLCOPT:http-referrer=https://nonton168.online/
@@ -2733,6 +2760,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png" group-title="FIGHT & BOXING", FIGHT HD
 http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
 
