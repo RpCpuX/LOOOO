@@ -1883,52 +1883,39 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDO MUSIC" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg", Dens ShowBiz
 http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_ShowBiz
 ########################################  VOD MUSIC  ########################################
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Biarku Sendiri
 https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Cucak Rowo
 https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Relaku Mengalah
 https://m.vidio.com/videos/7268899/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Vita Alfia
 https://m.vidio.com/videos/7175171/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Kau Tercipta
 https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Cinta Tak Memilih
 https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Kangen Dangdut
 https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Jangan Marah
 https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Hanyut Dalam Kecewa
 https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Rindu
 https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Mungkinkah
 https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Hanya Kamu yang Bisa
 https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8 
 
@@ -2108,15 +2095,12 @@ https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Mumun
 https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Nini Thowok
 https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Pengabdi Setan
 https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Pengabdi Setan 2: Communion
 https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
