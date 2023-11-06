@@ -1,10 +1,4 @@
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
-https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
-
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
-https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/150px-Astro_Awani.png" group-title="OTHER CHANNEL", ASTRO AWANI
 https://pizztv.qreatifku.my.id/cdnweb/AstroAwani.m3u8
 
@@ -173,7 +167,7 @@ https://pizztv.qreatifku.my.id/cdnweb/MTV.mpd
 https://pizztv.qreatifku.my.id/cdnweb/ClubbingTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NoCopyrightSounds_logo_white-black.svg/1200px-NoCopyrightSounds_logo_white-black.svg.png", NO COPYRIGHT SOUNDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NoCopyrightSounds_logo_white-black.svg/1200px-NoCopyrightSounds_logo_white-black.svg.png" group-title="WEST MUSIC", NO COPYRIGHT SOUNDS
 https://pizztv.qreatifku.my.id/cdnweb/NCS.m3u8
 
 
@@ -411,7 +405,7 @@ https://pizztv.qreatifku.my.id/cdnweb/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://spl.com.sa/sites/default/files/2022-08/Image_0.jpeg" group-title="SPORTS BOLA", Saudi Pro League
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1701552635340333056/_4obk3UD_400x400.jpg" group-title="SPORTS BOLA", Saudi Pro League
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/SSC1.mpd
 
@@ -575,7 +569,7 @@ https://pizztv.qreatifku.my.id/cdnweb/GPRTV.m3u8
 https://pizztv.qreatifku.my.id/cdnweb/HumabetangTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3esklSh5gFHg2McRUkBoaFfMddyIEm86RSjYLkjYkTbDxhdBxUjrJlVWUT0IIZT4mOeANuUhfnbS4gT1cuevye2P-Im_Ubw8wYizOzLAzr0W-jQRl_sPm4KIfx9qrVeCQTqiBTqQPfvrTCCI7bL6_zg1G7KFYa9bsnCCuJIlmJfSK4eG7eJnmhro/s340/Kawanua%20TV%20Manado%20live%20streaming.png", KAWANUA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3esklSh5gFHg2McRUkBoaFfMddyIEm86RSjYLkjYkTbDxhdBxUjrJlVWUT0IIZT4mOeANuUhfnbS4gT1cuevye2P-Im_Ubw8wYizOzLAzr0W-jQRl_sPm4KIfx9qrVeCQTqiBTqQPfvrTCCI7bL6_zg1G7KFYa9bsnCCuJIlmJfSK4eG7eJnmhro/s340/Kawanua%20TV%20Manado%20live%20streaming.png" group-title="LOKAL CHANNELS", KAWANUA TV
 https://pizztv.qreatifku.my.id/cdnweb/kawanuatv.m3u8
 
 
@@ -605,11 +599,11 @@ https://pizztv.qreatifku.my.id/cdnweb/pktv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r9sumtq5hrbg8n8/Rctv.jpeg" group-title="LOKAL CHANNELS", Radar Cirebon TV *
 https://pizztv.qreatifku.my.id/cdnweb/rctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://sangajitv.co.id/wp-content/uploads/2022/05/logo.png", SANGAJI TV
+#EXTINF:-1 tvg-logo="https://sangajitv.co.id/wp-content/uploads/2022/05/logo.png" group-title="LOKAL CHANNELS", SANGAJI TV
 https://pizztv.qreatifku.my.id/cdnweb/SangajiTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/SIMPANG5tv.png/250px-SIMPANG5tv.png", SIMPANG 5 TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/SIMPANG5tv.png/250px-SIMPANG5tv.png" group-title="LOKAL CHANNELS", SIMPANG 5 TV
 https://pizztv.qreatifku.my.id/cdnweb/simpang5tv.m3u8
 
 
@@ -630,6 +624,12 @@ https://pizztv.qreatifku.my.id/cdnweb/tvku.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" group-title="WEST NEWS", BLOOMBERG ASIA *
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/Bloomberg.mpd
+
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
+https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
+
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
+https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/xfv0o53chpd82im/wion.png" group-title="WEST NEWS", WION *
@@ -694,7 +694,8 @@ https://pizztv.qreatifku.my.id/cdnweb/RTEnglish.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/AlJazeeraInternational.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50",
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://dl.dropboxusercontentt.com/s/6qfwl6bubdtstxb/cna.png", CNA *
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/ChannelNewsAsia.mpd
