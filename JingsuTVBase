@@ -193,12 +193,8 @@ https://pizztv.qreatifku.my.id/cdnweb/NOWROCK.m3u8
 https://pizztv.qreatifku.my.id/cdnweb/StingrayKaraoke.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qtjr8dtnerodc5g/kpop.png" group-title="WEST MUSIC", THE K-POP*
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qtjr8dtnerodc5g/kpop.png" group-title="WEST MUSIC", THE K-POP *
 https://pizztv.qreatifku.my.id/cdnweb/TheKPOP.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qtjr8dtnerodc5g/kpop.png" group-title="WEST MUSIC", KPOP TV PLAY *
-https://pizztv.qreatifku.my.id/cdnweb/KPOPTV.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png" group-title="WEST MUSIC", TRACE URBAN *
 https://pizztv.qreatifku.my.id/cdnweb/TraceUrban.m3u8
@@ -230,7 +226,6 @@ https://pizztv.qreatifku.my.id/cdnweb/SCL.m3u8
 #EXTINF:-1 group-title="TVRI CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png", TVRI Nasional
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="TVRI CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png", TVRI Nasional 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
 
@@ -242,42 +237,42 @@ https://pizztv.qreatifku.my.id/cdnweb/PemersatuBangsa.mpd
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI ACEH
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI BALI
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/stream1/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/stream1/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI BANGKA BELITUNG
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI BENGKULU
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI DKI JAKARTA
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI GORONTALO
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI JAMBI
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI JAWA BARAT
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/stream1/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/stream1/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI JAWA TENGAH
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI JAWA TIMUR
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI KALIMANTAN BARAT
@@ -285,51 +280,51 @@ http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/st
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI KALIMANTAN SELATAN
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI KALIMANTAN TENGAH
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI KALIMANTAN TIMUR
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI LAMPUNG
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI MALUKU AMBON
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI NUSA TENGGARA BARAT
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI NUSA TENGGARA TIMUR
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI PAPUA
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI RIAU
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRIAU)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRIAU)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SULAWESI BARAT
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULBARMAJENE)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULBARMAJENE)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SULAWESI SELATAN
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SULAWESI TENGAH
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SULAWESI TENGGARA
@@ -337,15 +332,15 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/s
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SULAWESI UTARA
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SUMATERA BARAT
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/stream2/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/stream2/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SUMATERA SELATAN
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI SUMATERA UTARA
@@ -353,11 +348,11 @@ http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI WORLD
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="TVRI CHANNEL", TVRI YOGYAKARTA
-http//wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/stream3/streamPlaylist.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/stream3/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Ahsan_TV.png/revision/latest?cb=20180922124847" group-title="RELIGI CHANNEL", AHSAN TV
@@ -572,10 +567,6 @@ https://pizztv.qreatifku.my.id/cdnweb/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8f/Logo_Balikpapan_TV.png/200px-Logo_Balikpapan_TV.png" group-title="LOKAL CHANNELS", BALIKPAPAN TV
 https://pizztv.qreatifku.my.id/cdnweb/Balikpapan.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zjimxc5MgEw/XO3U4J0c3qI/AAAAAAAAoAU/oAj2668BydcflMha4iXoKbQjetJlJXeaQCLcBGAs/s1600/bungo-tv-channel-logo.png", BUNGO TV
-https://pizztv.qreatifku.my.id/cdnweb/BungoTV.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/uv6lxmw5ed4hgiz/elshintatv.png" group-title="LOKAL CHANNELS", ELSHINTA TV *
