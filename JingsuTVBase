@@ -720,7 +720,7 @@ https://pizztv.qreatifku.my.id/cdnweb/RTEnglish.mpd
 https://pizztv.qreatifku.my.id/cdnweb/AlJazeeraInternational.mpd
 
 
-#EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://dl.dropboxusercontentt.com/s/6qfwl6bubdtstxb/cna.png, CNA *
+#EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://dl.dropboxusercontentt.com/s/6qfwl6bubdtstxb/cna.png", CNA *
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/ChannelNewsAsia.mpd
 
