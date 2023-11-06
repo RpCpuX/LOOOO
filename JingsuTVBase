@@ -1,7 +1,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/150px-Astro_Awani.png" group-title="OTHER CHANNEL", ASTRO AWANI
-https://pizztv.qreatifku.my.id/cdnweb/AstroAwani.m3u8
-
+##https://pizztv.qreatifku.my.id/cdnweb/AstroAwani.m3u8
+https://bit.ly/45WbU2Y
 
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="OTHER CHANNEL", RTB ANEKA
 https://pizztv.qreatifku.my.id/cdnweb/RTBAneka.m3u8
@@ -626,7 +626,7 @@ https://pizztv.qreatifku.my.id/cdnweb/tvku.m3u8
 https://pizztv.qreatifku.my.id/cdnweb/Bloomberg.mpd
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
-https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
+https://bit.ly/3u8GRUa
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
 https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
