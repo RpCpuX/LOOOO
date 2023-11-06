@@ -12,7 +12,6 @@ https://pizztv.qreatifku.my.id/cdnweb/AstroAwani.m3u8
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="OTHER CHANNEL", RTB ANEKA
 https://pizztv.qreatifku.my.id/cdnweb/RTBAneka.m3u8
 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png" group-title="OTHER CHANNEL", RTB GO
 https://pizztv.qreatifku.my.id/cdnweb/RTBGO.m3u8
 
@@ -112,13 +111,6 @@ https://pizztv.qreatifku.my.id/cdnweb/RRINet.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/sds4h9k6agurww8/idx.png" group-title="INDO NEWS BERITA", IDX CHANNEL *
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/IDX.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-title="INDO NEWS BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png", SINDO NEWS TV *
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/MNCnews-HDD.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="LOKAL ENTERTAIN", USEE PRIME *
@@ -374,7 +366,6 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 #EXTINF:-1 tvg-logo="https://pandanjaya.com/wp-content/uploads/2023/01/logo-MGI-TV.png" group-title="RELIGI CHANNEL", MGI TV
 https://h1.intechmedia.net/intech/ch25.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Salamtv.png/799px-Salamtv.png" group-title="RELIGI CHANNEL", SALAM TV
 https://h1.intechmedia.net/intech/ch12.m3u8
 
@@ -543,7 +534,7 @@ https://pizztv.qreatifku.my.id/cdnweb/DAAITV.mpd
 https://pizztv.qreatifku.my.id/cdnweb/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearke
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV *
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/JTV.mpd
@@ -564,11 +555,6 @@ https://pizztv.qreatifku.my.id/cdnweb/BandungTV.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/606326609650450432/DFaH_XRX_400x400.png" group-title="LOKAL CHANNELS", AREK TV
 https://pizztv.qreatifku.my.id/cdnweb/arektv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8f/Logo_Balikpapan_TV.png/200px-Logo_Balikpapan_TV.png" group-title="LOKAL CHANNELS", BALIKPAPAN TV
-https://pizztv.qreatifku.my.id/cdnweb/Balikpapan.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/uv6lxmw5ed4hgiz/elshintatv.png" group-title="LOKAL CHANNELS", ELSHINTA TV *
 https://pizztv.qreatifku.my.id/cdnweb/elshintatv.m3u8
 
@@ -589,10 +575,6 @@ https://pizztv.qreatifku.my.id/cdnweb/GPRTV.m3u8
 https://pizztv.qreatifku.my.id/cdnweb/HumabetangTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/15/Jambi_TV.png/200px-Jambi_TV.png" group-title="LOKAL CHANNELS", JAMBI TV
-https://pizztv.qreatifku.my.id/cdnweb/jambitv.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3esklSh5gFHg2McRUkBoaFfMddyIEm86RSjYLkjYkTbDxhdBxUjrJlVWUT0IIZT4mOeANuUhfnbS4gT1cuevye2P-Im_Ubw8wYizOzLAzr0W-jQRl_sPm4KIfx9qrVeCQTqiBTqQPfvrTCCI7bL6_zg1G7KFYa9bsnCCuJIlmJfSK4eG7eJnmhro/s340/Kawanua%20TV%20Manado%20live%20streaming.png", KAWANUA TV
 https://pizztv.qreatifku.my.id/cdnweb/kawanuatv.m3u8
 
@@ -608,11 +590,6 @@ https://pizztv.qreatifku.my.id/cdnweb/madutv.m3u8
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/siolbyggijbn3f9/magna.png", MAGNA TV *
 https://pizztv.qreatifku.my.id/cdnweb/MagnaTV.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z6in94w88gx9t7a/MGS%20Tv.jpeg" group-title="LOKAL CHANNELS", MGS TV
-https://pizztv.qreatifku.my.id/cdnweb/mgstv.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png" group-title="LOKAL CHANNELS", MOJI TV *
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://pizztv.qreatifku.my.id/cdnweb/Moji.m3u8
@@ -621,7 +598,6 @@ https://pizztv.qreatifku.my.id/cdnweb/Moji.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/06wiut4q11q92mc/nusantaratv.png" group-title="LOKAL CHANNELS", NUSANTARA TV
 https://pizztv.qreatifku.my.id/cdnweb/Nusantara.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/200px-PKTV_New_Logo_2020.png" group-title="LOKAL CHANNELS", PKTV
 https://pizztv.qreatifku.my.id/cdnweb/pktv.m3u8
 
@@ -629,7 +605,6 @@ https://pizztv.qreatifku.my.id/cdnweb/pktv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r9sumtq5hrbg8n8/Rctv.jpeg" group-title="LOKAL CHANNELS", Radar Cirebon TV *
 https://pizztv.qreatifku.my.id/cdnweb/rctv.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://sangajitv.co.id/wp-content/uploads/2022/05/logo.png", SANGAJI TV
 https://pizztv.qreatifku.my.id/cdnweb/SangajiTV.m3u8
 
