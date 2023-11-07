@@ -5,11 +5,26 @@
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png", ANTV 1
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel", 917 Jowo HD
-rtp://@239.1.2.212:9208
+#EXTINF:-1  tvg-id="5ae0d09aedfc69327ef4552f02c837a1",TRT World
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTi79j4LqoDff65ewDOx_I4/ts
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="Knowledge",920 National Geographic HD
-rtp://239.1.1.243:9432
+#EXTINF:-1  tvg-id="5ae0d09aedfc69327ef4552f02c837a1",BBC World News
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJX1Ev41_48OjhQkg7xGs6pM/ts
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",921 Natgeo Wild HD
-rtp://@239.1.1.207:9216
+#EXTINF:-1  tvg-id="5ae0d09aedfc69327ef4552f02c837a1",BBC News HD (Asia)
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTLarjmUEUuPUxD9D02iV1o/ts
+
+#EXTINF:-1,DW English
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJY0bsPmFvVUGntmbHKVoO3I/ts
+
+#EXTINF:-1 tvg-id="5ae0d09aedfc69327ef4552f02c837a1" tvg-chno="31" tvg-logo="https://i.ibb.co/L9qn2Jz/20220926-161847.png" group-title="ID",HBO
+http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
+
+#EXTINF:-1 tvg-id="8e550f72149fd448a78d2af58ba4cbb3" tvg-chno="32" tvg-logo="https://i.ibb.co/1bnnKTL/20220926-161758.png" group-title="ID",HBO Signature
+http://103.180.119.90:9911/stream/channelid/1913607566?profile=pass
+
+#EXTINF:-1 tvg-id="f99bf909afb9dba95c482b359a5b8cc5" tvg-chno="33" tvg-logo="https://i.ibb.co/GkZLVGX/20220926-161740.png" group-title="ID",HBO Family
+http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
+
+#EXTINF:-1 tvg-id="fe488ba5f25bc775bff591d8a3291e5d" tvg-chno="34" tvg-logo="https://i.ibb.co/z5HmmGH/20220926-161825.png" group-title="ID",HBO Hits
+http://103.180.119.90:9911/stream/channelid/629885182?profile=pass
