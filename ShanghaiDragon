@@ -696,10 +696,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.
 #EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png", ABC Australia Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516", CNBC Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/900
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516", CNBC Asia HD
 https://1.yurend.xyz/dash-wv/linear/900/default_primary.mpd
 ########################################  WEST NEWS ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -744,10 +744,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/jtg0usmurm661e0/images%20%282%29.jpeg" group-title="WEST NEWS", LiveNOW from FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://dl.dropbox.com/s/p5rcdgxsfjibpn0/images%20%284%29.jpeg" group-title="WEST NEWS", RT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/82x2nvrx6fb2l6i/images%20%281%29.png" group-title="WEST NEWS", NBC
 #https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
@@ -795,22 +791,10 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5019
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="WEST NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png", CGTN HD  
-https://1.yurend.xyz/dash-wv/linear/5019/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1008
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="WEST NEWS" tvg-logo="https://dl.dropboxusercontent.com/s/hi0cxx8owmpxuv5/bbcworldnews.png" ch-number="512", BBC World News HD
 https://1.yurend.xyz/dash-wv/linear/1008/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="WEST NEWS" tvg-logo="https://dl.dropboxusercontent.com/s/8w3agoiq11avx0i/dw.png" ch-number="521", DW English
-https://1.yurend.xyz/dash-wv/linear/9984/default_primary.mpd
 ########################################  RELIGI CHANNEL  ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -850,6 +834,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="RELIGI CHANNEL"  tvg-logo="https://dl.dropbox.com/s/yq2y0nms2wdixox/images%20%282%29.jpeg", REFORMED 21
 http://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
@@ -1070,7 +1055,6 @@ https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
 #EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event EPL 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1315,12 +1299,6 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1631686162_mtv-live.jpg" group-title="WEST MUSIC", MTV Live
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="WEST MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png", NOW 70
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="WEST MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7330c92fcbc8b452e64e160cf048cc21.png", NOW 80
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="WEST MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
