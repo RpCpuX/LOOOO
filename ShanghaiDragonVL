@@ -425,14 +425,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="INDO-MLY MOVIE", Digione (Max)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bmi59ney1ym4ehz8kjy1/Citra-bioskop.jpeg?rlkey=fzi3l47x6wgesjwdhc58hoyaj&dl=0" group-title="INDO-MLY MOVIE", CITRA BIOSKOP
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO-MLY MOVIE", DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hnpq00cigu9vyfz/citradrama.png" group-title="INDO-MLY MOVIE", CITRA DRAMA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -446,7 +440,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" , ROCK ACTION HD
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
-#EXTINF:-1 tvg-id="blueantext" group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" , ROCK ACTION HD(D*)
+#EXTINF:-1 tvg-id="blueantext" group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" , ROCK ACTION HD (D*)
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -509,14 +503,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bjjyw99hfifpumo/cinemaworld.png", Cinema World 2
 http://op-group1-swiftservehd-1.dens.tv/h/h04/01.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema
-http://210.210.155.37/x6bnqe/h/h192/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="mycinema.id" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema 2
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-id="mycinema.id" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema
 https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropbox.com/s/ifu2pnbyjgz1odj/Cinemachi.jpg", Cinemachi
@@ -546,13 +536,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/akkdiokk54g6oel/moviesphere.png" group-title="WEST CHANNEL & MOVIE", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="WEST CHANNEL & MOVIE", PARAMOUNT
-https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="WEST CHANNEL & MOVIE", Warner TV (*)
 http://208.115.225.174:14132
 
@@ -573,15 +556,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" group-title="WEST CHANNEL & MOVIE", Cinema World
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="WEST CHANNEL & MOVIE", Cinemax
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png", Cinemachi 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -627,6 +601,30 @@ https://pizztv.qreatifku.my.id/cdnweb/NHKWorldPremium.mpd
 #EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://dl.dropboxusercontent.com/s/rqsz9oc0uwranpm/tv5monde.png", TV MONDE ASIE (V*)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/TV5.mpd
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png",HBO
+http://173.225.246.25:8889/udp/239.203.20.53:4003
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",HBO+
+http://173.225.246.25:8889/udp/239.203.20.121:4003
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png",HBO2
+http://173.225.246.25:8889/udp/239.203.20.118:4003
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png",HBO Family
+http://173.225.246.25:8889/udp/239.203.20.120:4003
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png",HBO Signature
+http://173.225.246.25:8889/udp/239.203.20.56:4003
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",HBO Xtreme
+http://173.225.246.25:8889/udp/239.203.20.57:4003
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",HBO POP
+http://173.225.246.25:8889/udp/239.203.20.55:4003
+
+#EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO Signature *
+http://208.115.225.174:14160
 ########################################  ASIAN CHANNELS ########################################
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fcrtqmoyt0pfb29/ccm.png" group-title="ASIAN CHANNELS", Celestial Classic Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
@@ -1344,90 +1342,134 @@ https://1.yurend.xyz/dash-wv/linear/2604/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
 https://1.yurend.xyz/dash-wv/linear/5057/default_primary.mpd
-########################################  LIVE EVENT  ########################################
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+########################################  LIVE EVENT  #########################################KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 1
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 1
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 2
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 2
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 3
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 3
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9aaeb3f74e57ee6d32b2b00359e711c5:8edaf24345beda77edb5430f76153e5d
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 4
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 10
 https://production-drm-vidio-com-event-10.akamaized.net/out/v1/194c465439d64a83ba65537ca86180a3/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7990eaceef137ccf32106593abd33c3:67d835357d1f5b42b91ef27181d04fd4
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 5
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 5
 https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36d6fcd4402da11397ea4182101df094:d0f61dbd6f228467a3e0d7caa7ee8031
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 6
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 4
 https://production-drm-vidio-com-event-4.akamaized.net/out/v1/f5e1e4dc70e54d2eb4020b7af8eeb925/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 7
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 6
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Event 8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 7
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3eed2a9bd7a7f4aaf2709e960b4353ae:3913a253cf7557484b88223418a97815
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Eventt 14
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 9
 https://production-drm-vidio-com-event-9.akamaized.net/out/v1/aaf192224b5d4f6d92b52f9e8987f0e8/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Eventt 15
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-psd/live-stream-instagram-icon-live_609989-1339.jpg?size=626&ext=jpg", group-title="LIVE EVENT", Event 8
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 2
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 3
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 4
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 5
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 6
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 7
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 9
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 10
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 11
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 12
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT",Event Sport 13
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 14
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/gxg6D-Hls9I/sddefault.jpg" group-title="LIVE EVENT", Event Sport 15
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 1
+#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 1
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 2
+#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 2
 https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 3
+#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 3
 https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 4
+#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 4
 https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 5
+#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 5
 https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 6
+#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 6
 https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 7
+#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 7
 https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 ########################################  DISCOVERY X-PLORER ########################################
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzNe6_POOd4AwRpl-Vht2qv5LIJPKm5WxI7F8nhohCG2YVEcZXJomT9nnu0FlR44OkZI&usqp=CAU", STRONGMAN CHAMPIONS LEAGUE
@@ -1481,7 +1523,7 @@ https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/discovery-channel-logos-704165.png" group-title="DISCOVERY X-PLORER", Discovery Channel
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="DISCOVERY X-PLORER", Discovery Science
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/220px-Science_Channel_2016.png" group-title="DISCOVERY X-PLORER", Discovery Science
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1505,7 +1547,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 group-title="DISCOVERY X-PLORER" tvg-logo="https://dl.dropboxusercontent.com/s/jrij9892nnbldbw/cgtn.png", CGTN Documentary *
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:-1 group-title="DISCOVERY X-PLORER" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png", History *
+#EXTINF:-1 group-title="DISCOVERY X-PLORER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/220px-History_%282021%29.svg.png", History *
 http://187.95.95.247/h2/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2lx4zr6tnfz9k27/smithsonian.png" group-title="DISCOVERY X-PLORER", Smithsonian *
@@ -1585,10 +1627,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropboxusercontent.com/s/cjr6qn2k94yzkla/nickelodeon.png", NICKELODEON
 http://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropbox.com/scl/fi/wl0r84q21tj6fz0bnob08/Cartoonito.jpeg?rlkey=f96hmbgjmjk720f2kisw7h9qy&dl=0", CARTOONITO
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1597,10 +1635,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="CARTOON KIDZ",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="mykids.MACAN" tvg-name="mykids" tvg-logo="https://dl.dropboxusercontent.com/s/vrzlb4pchkk30az/mkidz.png" group-title="CARTOON KIDZ", MY KIDS
-http://210.210.155.37/x6bnqe/h/h191/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropbox.com/s/vaar4is5vpsv38c/images%20%283%29.jpeg", PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -1656,30 +1690,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 https://1.yurend.xyz/dash-wv/linear/2606/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png", DreamWorks B
-https://1.yurend.xyz/dash-wv/linear/5095/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NETWORK HD
 https://1.yurend.xyz/dash-wv/linear/509/default_primary.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD9WJ4YeBMWQzW78hYYnHplO_Fv8DMc1Qiw&usqp=CAU", Talking Tom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD9WJ4YeBMWQzW78hYYnHplO_Fv8DMc1Qiw&usqp=CAU", Talking Tom Heroes
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://daveandava.com/images/posters/poster01.png", Dave And Ava
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://www.pngitem.com/pimgs/m/512-5125393_tayo-the-little-bus-tayo-the-little-bus.png", Tayo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
@@ -1694,10 +1717,6 @@ http://jakarta.nagaswarafm.com:8200/stream
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/wppfj15s8nb8iy6/musictv.png" group-title="INDO MUSIC", Music Tv
 http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDO MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png", CITRA DANGDUT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://dl.dropbox.com/scl/fi/861dv2qloe3jvrmqk4kv7/Imtv.jpeg?rlkey=f9j0x2c8em27a1ktpkzgblerl&dl=0" group-title="INDO MUSIC", IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
@@ -1786,9 +1805,6 @@ https://pizztv.qreatifku.my.id/cdnweb/CitraDangdut.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/v9QX2-Mgtw_ZT0Hv-P-vZ-u5PBo=/fit-in/1440x1440/filters:quality(100)/vidio-web-prod-user/uploads/user/cover/125/aqmvideo-cf7495.jpg" group-title="INDO MUSIC", AQUARIUS MUSIKINDO
 https://pizztv.qreatifku.my.id/cdnweb/AquariusMusikindo.m3u8
-
-#EXTINF:-1 tvg-logo="https://ikonser.id/assets/img/images/logo-new-1.png" group-title="INDO MUSIC", I KONSER
-https://pizztv.qreatifku.my.id/cdnweb/IKonser.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/861dv2qloe3jvrmqk4kv7/Imtv.jpeg?rlkey=f9j0x2c8em27a1ktpkzgblerl&dl=0" group-title="INDO MUSIC", IMTV (V*)
 https://pizztv.qreatifku.my.id/cdnweb/IMTV.m3u8
@@ -3106,60 +3122,16 @@ https://ef1.ruby.gift/play/driveid-167070-webrip-1080-terbit21-com-zom-100-bucke
 #EXTINF:-1 tvg-logo="https://pic5.iqiyipic.com/image/20230822/45/fa/v_173481132_m_601_en_260_360.jpg" group-title="VOD CHINA" , 72 Hours - Operation Gold (2023)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss83.ahotnews.com/stream/4/C0/PQrew04Me6yATF19KB9yMU31SoOGvWTTdJw/master.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://i.mydramalist.com/pd2Bpy_4f.jpg" group-title="VOD CHINA" , Flashover (2023)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/
-https://ss126.litvp.com/stream/8/37/fvMUjKTR7crbo8GstETgEMnQgzlCW4L9Vne/master.m3u8
 ########################################  FOODS & KULINER ########################################
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://dl.dropboxusercontent.com/s/dzqy9ouiqxcrwrw/afn.png", AFN
-http://kuchini.site:8080/F30140/f3de2280/157549
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8fwuy4ua2inlare/densfood.png" group-title="FOODS & KULINER", Dens Food Channel
 http://210.210.155.37/x6bnqe/s/s38/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://dl.dropboxusercontent.com/s/3xr054htzqtielq/arirang.png https://www.mncvision.id/userfiles/image/channel/channel_351.png", ARIRANG
-#http://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="FOODS & KULINER", Eat N Go
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="FOODS & KULINER" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg", Dens Food Channel *
-#http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Food_Channel_Trial-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://dl.dropboxusercontent.com/s/3xr054htzqtielq/arirang.png", Arirang World
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
-#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png", FOOD NETWORK HD
-https://1.yurend.xyz/dash-wv/linear/2300/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
-#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png", AFN HD *
-https://1.yurend.xyz/dash-wv/linear/500/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/150px-Astro_Awani.png" group-title="OTHER CHANNEL", ASTRO AWANI
 https://pizztv.qreatifku.my.id/cdnweb/AstroAwani.m3u8
@@ -3265,7 +3237,7 @@ http://onlineradiobox.com/json/id/sushi/play
 #EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_14257686-118d-4a31-ac31-601075190c77" group-title="RADIO",  95.9 smart FM jakarta
 http://cast2.my-control-panel.com/proxy/radioso3/stream
 
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_1bdb7538-d6af-4c77-ab1e-d51185aa9384" group-title="RADIO",  89.2 FM Jakarta, Campursari
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/Campursari_FM_892.png/150px-Campursari_FM_892.png" group-title="RADIO",  89.2 FM Jakarta, Campursari
 http://a8.siar.us/listen/campursari/stream
 
 #EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c223d279-e73c-43a0-aff2-4c61c780eb9e" group-title="RADIO",  Firza MPC Radio
@@ -3274,7 +3246,7 @@ http://mpc1.mediacp.eu/stream/firzaradio
 #EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2abffaea-4080-466c-be51-c40acbbbd61a" group-title="RADIO",  Jiz 89.5 FM
 http://pu.klikhost.com/proxy/jizfm/stream
 
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c67d843c-89d6-4cbe-912e-17327973f18f" group-title="RADIO",  KBR68H
+#EXTINF:-1 tvg-logo="https://kbr.id/media/?type=web&size=730x406&filename=/archive/2013/11/17/kbr-b.jpg" group-title="RADIO",  KBR68H
 http://pu.klikhost.com:8056/kbr
 
 #EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_35a9be4e-8082-4900-96fb-b54a9c0c6ecc" group-title="RADIO",  Loker Musik Indonesia
@@ -3466,21 +3438,9 @@ http://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png" group-title="FIGHT & BOXING", FIGHT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg", Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE NETWORK
-https://1.yurend.xyz/dash-wv/linear/2603/default_primary.mpd
