@@ -1082,7 +1082,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", TV ALHIJRAH
+#EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", AL HIJRAH TV
 https://1.yurend.xyz/dash-wv/linear/1113/default_primary.mpd
 ########################################  LOKAL ENTERTAIN ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1423,12 +1423,12 @@ https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd87
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3eed2a9bd7a7f4aaf2709e960b4353ae:3913a253cf7557484b88223418a97815
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Events 14
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Eventt 14
 https://production-drm-vidio-com-event-9.akamaized.net/out/v1/aaf192224b5d4f6d92b52f9e8987f0e8/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Events 15
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE EVENT", Eventt 15
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2856,19 +2856,6 @@ https://d71amw.bl.files.1drv.com/y4mZy-3nzCjN4rZVz5s8UvThmii2bL0aSpcnyfNvDI1iTno
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqL8zEfnW61W5koZRS3UB6lTFa8bCY5AEjbg&usqp=CAU" group-title="VOD WEST MOVIE",We Have A Ghost (2023)
 https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPjdetQN07WQMOwvKQAspuzoU5zuBHW0_IxQ6mjynZTo3bfEdUnOSFIxPtssgKda1hNi5xQa2mHya3JMiSRGJW9KtEKkDty3lWi2N3wneYfpEqmfOM6OsTyvMw9H8tsOqKDL1h9859iEQd_oGkl6C2jH1CpERhmqWDSXN2eKljXtw
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://static.gatra.com/foldershared/images/2023/msl/06-Jun/ore.jpg" group-title="LIVE EVENT", Premier League 1
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
@@ -3121,34 +3108,42 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="RELIGI CHANNEL", AL HIJRAH
 https://pizztv.qreatifku.my.id/cdnweb/AlHijrah.mpd
 ######################################## VOD CHINA ########################################
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/Rurouni_Kenshin_%282012_film%29_poster.jpg" group-title="VOD CHINA" , Rurouni Kenshin Part I: Origins (2012)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss263.abcztech.com/stream/0/67/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN/hls480/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtyosz4bvLCPOWApUvQDn1fKtA2_1fsk5cA&usqp=CAU" group-title="VOD CHINA" , Rurouni Kenshin Part II: Kyoto Inferno (2014)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss87.dabeu.com/stream/F/69/Bpi9NB4yFCPC9Nu8hCrH7Lfi13CqFljJ0ch/hls480/Bpi9NB4yFCPC9Nu8hCrH7Lfi13CqFljJ0ch480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojNaoMRJSUjouLL7qh5u3A9fpCwpObLl6jg&usqp=CAU" group-title="VOD CHINA" , Rurouni Kenshin Part III: The Legend Ends (2014)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss115.sofafile.com/stream/F/B6/2R8OGKg07TENprORZG0YJWxWnjJ5qkT3pzX/hls480/2R8OGKg07TENprORZG0YJWxWnjJ5qkT3pzX480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvlbmp8agT209GHgqMHGvk7GQ-LTpK9SlpQ&usqp=CAU" group-title="VOD CHINA" , Ballerina (2023)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss248.mibenet.com/stream/0/6E/RLP5CBJll6ucNzybwaTRVJMfiyhlc6VXybc/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/The_Moon_%282023_film%29.jpg" group-title="VOD CHINA" , The Moon (2023)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss283.technunz.com/stream/1/A2/HQKLfeMImyqXUsN7GQeuabX8YFKE58P6eS4/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zombie-100/images/a/a6/Zom-100-Movie-poster.png/revision/latest/scale-to-width-down/1200?cb=20230803151529" group-title="VOD CHINA" , Zom 100: Bucket List of the Dead (2023)
 #EXTVLCOPT:http-referrer=https://t21.press/
 https://ef1.ruby.gift/play/driveid-167070-webrip-1080-terbit21-com-zom-100-bucket-list-of-the-dead-2023.mp4
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://pic5.iqiyipic.com/image/20230822/45/fa/v_173481132_m_601_en_260_360.jpg" group-title="VOD CHINA" , 72 Hours - Operation Gold (2023)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss83.ahotnews.com/stream/4/C0/PQrew04Me6yATF19KB9yMU31SoOGvWTTdJw/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.mydramalist.com/pd2Bpy_4f.jpg" group-title="VOD CHINA" , Flashover (2023)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss126.litvp.com/stream/8/37/fvMUjKTR7crbo8GstETgEMnQgzlCW4L9Vne/master.m3u8
