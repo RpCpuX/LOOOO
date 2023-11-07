@@ -1,7 +1,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/150px-Astro_Awani.png" group-title="OTHER CHANNEL", ASTRO AWANI
 ##https://pizztv.qreatifku.my.id/cdnweb/AstroAwani.m3u8
-https://pastebin.com/raw/FqJMktQ6
+https://raw.githubusercontent.com/RpCpuX/One4uBot/sql-extended/astro
 
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="OTHER CHANNEL", RTB ANEKA
 https://pizztv.qreatifku.my.id/cdnweb/RTBAneka.m3u8
@@ -573,7 +573,7 @@ https://pizztv.qreatifku.my.id/cdnweb/HumabetangTV.m3u8
 https://pizztv.qreatifku.my.id/cdnweb/kawanuatv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lingkar.news/wp-content/uploads/2022/08/logo-lingkartv.png" group-title="LOKAL CHANNELS", LINGKAR TV
+#EXTINF:-1 tvg-logo="https://lingkar.news/wp-content/uploads/2022/08/logo-lingkartv.png" group-title="RELIGI CHANNEL", LINGKAR TV
 https://pizztv.qreatifku.my.id/cdnweb/lingkartv.m3u8
 
 
@@ -626,10 +626,10 @@ https://pizztv.qreatifku.my.id/cdnweb/tvku.m3u8
 https://pizztv.qreatifku.my.id/cdnweb/Bloomberg.mpd
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
-https://pastebin.com/raw/Ubxc7mMK
+https://raw.githubusercontent.com/RpCpuX/One4uBot/sql-extended/expired
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
-https://pastebin.com/raw/Ubxc7mMK
+https://raw.githubusercontent.com/RpCpuX/One4uBot/sql-extended/expired
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/xfv0o53chpd82im/wion.png" group-title="WEST NEWS", WION *
@@ -694,7 +694,7 @@ https://pizztv.qreatifku.my.id/cdnweb/RTEnglish.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/AlJazeeraInternational.mpd
 
-#KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50",
+#KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://dl.dropboxusercontentt.com/s/6qfwl6bubdtstxb/cna.png", CNA *
 #EXTVLCOPT:http-referrer=https://visionplus.id
