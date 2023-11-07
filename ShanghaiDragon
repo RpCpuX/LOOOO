@@ -12,8 +12,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="CHANNELS INDONESIA", ANTV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="CHANNELS INDONESIA", INDOS-TRANS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="CHANNELS INDONESIA", INDOS-TRANS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
@@ -29,8 +29,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png", INEWS 1
 http://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png" group-title="CHANNELS INDONESIA", INEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png" group-title="CHANNELS INDONESIA", INEWS 2
 https://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,8 +39,8 @@ https://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI 1
 http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI 2
 https://kusnadipepenk.github.io/campeign/rcti.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -67,8 +67,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png", MNCTV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="CHANNELS INDONESIA", MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="CHANNELS INDONESIA", MNCTV HD
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -116,8 +116,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png", GTV 1
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="CHANNELS INDONESIA", GTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="CHANNELS INDONESIA", GTV 2
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 ########################################  LOKAL CHANNELS ########################################
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropbox.com/s/owpp55wvs9huk1g/ADi%20Tv.jpeg", ADi TV
@@ -153,6 +153,7 @@ http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropbox.com/s/ydze7k5ixrujxqn/duta.png", DUTA TV
 https://o1.siar.us/dutatv/live/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-name="TV" tvg-logo="https://dl.dropboxusercontent.com/s/uv6lxmw5ed4hgiz/elshintatv.png" group-title="LOKAL CHANNELS", Elshinta
 http://210.210.155.37/x6bnqe/s/s12/index.m3u8
 
@@ -192,6 +193,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/siolbyggijbn3f9/magna.png", MAGNA TV
 http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-name="TV" tvg-logo="https://dl.dropbox.com/s/z6in94w88gx9t7a/MGS%20Tv.jpeg" group-title="LOKAL CHANNELS", MGS TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 
@@ -229,6 +231,7 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #EXTINF:-1  tvg-id="TVKU.id" group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropbox.com/s/xanqfxjkx5njvy9/TVKU%20.jpeg", TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-name="TV" tvg-logo="https://dl.dropbox.com/s/f6sxdmd5b8k51op/UG%20Tv.jpeg" group-title="LOKAL CHANNELS", UGTV 
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
@@ -392,8 +395,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 #EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/bjjyw99hfifpumo/cinemaworld.png", Cinema World 2
 http://op-group1-swiftservehd-1.dens.tv/h/h04/01.m3u8
 
-#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="WEST CHANNEL & MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/zq7cxioc6ozam6h/mcn.png", My Cinema
 http://210.210.155.37/x6bnqe/h/h192/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -443,8 +446,8 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO CHANNEL",HBO Family *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO CHANNEL",HBO Family *
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -452,12 +455,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO CHANNEL",HBO Signature *
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="HBO CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png", HBO Signature* B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://208.115.225.174:14160
 ########################################  ASIAN CHANNELS ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -556,8 +559,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="ASIAN CHANNELS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://1.yurend.xyz/dash-wv/linear/1006/default_primary.mpd
 ########################################  INDO NEWS BERITA ########################################
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="INDO NEWS BERITA", Antara TV
@@ -677,12 +680,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png", Aljazeera English
 https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yyzxxbh9xvrn9ep/abcnews.png" group-title="ASIAN NEWS", CBS News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yyzxxbh9xvrn9ep/abcnews.png" group-title="ASIAN NEWS", ABC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -699,8 +702,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/900
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="ASIAN NEWS" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516", CNBC Asia HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://1.yurend.xyz/dash-wv/linear/900/default_primary.mpd
 ########################################  WEST NEWS ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -755,7 +758,7 @@ https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/flfgzekzkwnrnb7/images%20%283%29.jpeg" group-title="WEST NEWS", The First
 https://thefirst-distroscale.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/rqsz9oc0uwranpm/tv5monde.png" group-title="WEST NEWS", TV5 Monde Info
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/rqsz9oc0uwranpm/tv5monde.png" group-title="WEST NEWS", TV Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -835,8 +838,8 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="RELIGI CHANNEL"  tvg-logo="https://dl.dropbox.com/s/yq2y0nms2wdixox/images%20%282%29.jpeg", REFORMED 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -854,8 +857,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", TV ALHIJRAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://1.yurend.xyz/dash-wv/linear/1113/default_primary.mpd
 ########################################  LOKAL ENTERTAIN ########################################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -886,12 +889,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 group-title="LOKAL ENTERTAIN" tvg-logo="https://dl.dropboxusercontent.com/s/j7h0mq3pq5hfvcx/citramuslim.png", CITRA MUSLIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="LOKAL ENTERTAIN" tvg-logo="https://dl.dropboxusercontent.com/s/j7h0mq3pq5hfvcx/citramuslim.png", CITRA MUSLIM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL ENTERTAIN" tvg-logo="https://dl.dropbox.com/s/bkmp4l3p2ws50iw/Citra%20Entertainment.jpeg", CITRA Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="LOKAL ENTERTAIN" tvg-logo="https://dl.dropbox.com/s/bkmp4l3p2ws50iw/Citra%20Entertainment.jpeg", CITRA Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wowymocfn207vfb/bizlifestyle.png" group-title="LOKAL ENTERTAIN",Biznet Lifestile
@@ -927,8 +930,8 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="WEST ENTERTAIN" tvg-logo="https://dl.dropboxusercontent.com/s/4hp68jpssqyjh9b/fmn.png", FMN
 http://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 group-title="WEST ENTERTAIN" tvg-logo="https://dl.dropboxusercontent.com/s/1dzoofqxwuqys0l/ionplus.png", ION PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="WEST ENTERTAIN" tvg-logo="https://dl.dropboxusercontent.com/s/1dzoofqxwuqys0l/ionplus.png", ION PLUS
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -971,8 +974,8 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOTO SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", Motor Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOTO SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", Motor Racing
 http://210.210.155.35/uq2663/h/h25/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Motorracing_TV_HD
 https://op-group1-swiftservehd-1.dens.tv/h/h25/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Motorracing_TV_HD
 
@@ -1038,14 +1041,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD
 https://1.yurend.xyz/dash-wv/linear/2604/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
 https://1.yurend.xyz/dash-wv/linear/5057/default_primary.mpd
 ########################################  LIVE EVENT  ########################################
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1094,8 +1097,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 tvg-logo="https://www.indotelko.com/images/media/201909/ori/logo-biznet.jpg" group-title="DISCOVERY X-PLORER", Bisnet Adventure 4K *
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="DISCOVERY X-PLORER", NASA TV #B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="DISCOVERY X-PLORER", NASA TV Media *
@@ -1116,8 +1119,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="LEARNING & KNOWLEDGE", Global Trekker
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 ########################################  ANIME TV ########################################
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="ANIME TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",ANIPLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://nonton.site:8443/ekos/7483/2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1153,8 +1156,8 @@ http://jakarta.nagaswarafm.com:8200/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/wppfj15s8nb8iy6/musictv.png" group-title="INDO MUSIC", Music Tv
 http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="INDO MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png", CITRA DANGDUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDO MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png", CITRA DANGDUT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://dl.dropbox.com/scl/fi/861dv2qloe3jvrmqk4kv7/Imtv.jpeg?rlkey=f9j0x2c8em27a1ktpkzgblerl&dl=0" group-title="INDO MUSIC", IMTV
@@ -1271,8 +1274,8 @@ https://pizztv.qreatifku.my.id/cdnweb/MusicChannel.mpd
 ########################################  WEST MUSIC  ########################################
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
-#EXTINF:-1 group-title="WEST MUSIC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png", MTV Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="WEST MUSIC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png", MTV Asia HD
 #https://astro.cdnstreamr.workers.dev/dash-wv/linear/5014/default.mpd
 https://1.yurend.xyz/dash-wv/linear/5014/default_primary.mpd
 https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
@@ -1452,8 +1455,8 @@ https://pizztv.qreatifku.my.id/cdnweb/lingkartv.m3u8
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://ss263.abcztech.com/stream/0/67/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN/hls480/QszGPUK62lT2NbXwkgjGJMX1FbiGlCC2WRN480.m3u8
 ########################################  FOODS & KULINER ########################################
-#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://dl.dropboxusercontent.com/s/dzqy9ouiqxcrwrw/afn.png", AFN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://dl.dropboxusercontent.com/s/dzqy9ouiqxcrwrw/afn.png", AFN
 http://kuchini.site:8080/F30140/f3de2280/157549
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8fwuy4ua2inlare/densfood.png" group-title="FOODS & KULINER", Dens Food Channel
@@ -1488,15 +1491,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
-#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png", FOOD NETWORK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png", FOOD NETWORK HD
 https://1.yurend.xyz/dash-wv/linear/2300/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png", AFN HD *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FOODS & KULINER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png", AFN HD *
 https://1.yurend.xyz/dash-wv/linear/500/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/150px-Astro_Awani.png" group-title="OTHER CHANNEL", ASTRO AWANI
@@ -1643,16 +1646,16 @@ https://pizztv.qreatifku.my.id/cdnweb/CNBCInd.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2iu0ade1fd1dgk2/cnn.png" group-title="INDO NEWS BERITA", CNN INDONESIA
 https://pizztv.qreatifku.my.id/cdnweb/CNNInd.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fsub8-2.fna.fbcdn.net/v/t39.30808-6/298743220_10160832100226435_773223408052649856_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEBFc9Lc9OJM65XOOZFoWkFXlm2iLpHh7ReWbaIukeHtGyAzxzH7C1Pe5zLvNQVymv1u_EecqPZf1nBSwZXxJbH&_nc_ohc=-EkbTfh_ZDwAX-dLBQa&_nc_ht=scontent.fsub8-2.fna&oh=00_AfBZdvKJBgbAGLiViXG1vlH8unlzi1kkrLMoopUi5ibBsw&oe=654CF6FE" group-title="INDO NEWS BERITA", LIPUTAN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://scontent.fsub8-2.fna.fbcdn.net/v/t39.30808-6/298743220_10160832100226435_773223408052649856_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEBFc9Lc9OJM65XOOZFoWkFXlm2iLpHh7ReWbaIukeHtGyAzxzH7C1Pe5zLvNQVymv1u_EecqPZf1nBSwZXxJbH&_nc_ohc=-EkbTfh_ZDwAX-dLBQa&_nc_ht=scontent.fsub8-2.fna&oh=00_AfBZdvKJBgbAGLiViXG1vlH8unlzi1kkrLMoopUi5ibBsw&oe=654CF6FE" group-title="INDO NEWS BERITA", LIPUTAN 6
 https://pizztv.qreatifku.my.id/cdnweb/Liputan6.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="INDO NEWS BERITA", METRO GLOBE NEWS (V*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="INDO NEWS BERITA", METRO GLOBE NEWS (V*)
 https://pizztv.qreatifku.my.id/cdnweb/MetroGlobeNews.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="INDO NEWS BERITA", ANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="INDO NEWS BERITA", ANTARA TV
 https://pizztv.qreatifku.my.id/cdnweb/AntaraTV.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnvHtAvpCpAFOc5OEGxlMDC3p7TsDXzsMSjVUoGH4Vp2oPdPub_QtbxVAjcn45TQU77lo&usqp=CAU" group-title="INDO NEWS BERITA", RRI NET
@@ -1761,30 +1764,30 @@ https://pizztv.qreatifku.my.id/cdnweb/NickJr-HDD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="FIGHT & BOXING", Fight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="FIGHT & BOXING", Fight
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png", FIGHT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png", FIGHT SPORTS
 http://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png" group-title="FIGHT & BOXING", FIGHT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png" group-title="FIGHT & BOXING", FIGHT HD
 http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg", Fight Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="FIGHT & BOXING" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg", Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
