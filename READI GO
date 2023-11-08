@@ -5,26 +5,269 @@
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png", ANTV 1
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1  tvg-id="5ae0d09aedfc69327ef4552f02c837a1",TRT World
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTi79j4LqoDff65ewDOx_I4/ts
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="EatNGo.id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKjt6CkstpdY6LIUl1wZjfSJY4e5Y_koZHg&usqp=CAU", EatNGo
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/264765
 
-#EXTINF:-1  tvg-id="5ae0d09aedfc69327ef4552f02c837a1",BBC World News
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJX1Ev41_48OjhQkg7xGs6pM/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548", Citra Entertainment
+https://github.com/andriwibowo2222/tvip/raw/main/c-enterta.m3u8
 
-#EXTINF:-1  tvg-id="5ae0d09aedfc69327ef4552f02c837a1",BBC News HD (Asia)
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTLarjmUEUuPUxD9D02iV1o/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png", MOJI HD *
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298550
+moji.Id
 
-#EXTINF:-1,DW English
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJY0bsPmFvVUGntmbHKVoO3I/ts
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR HD *
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/162138
+com.widevine.alpha
 
-#EXTINF:-1 tvg-id="5ae0d09aedfc69327ef4552f02c837a1" tvg-chno="31" tvg-logo="https://i.ibb.co/L9qn2Jz/20220926-161847.png" group-title="ID",HBO
-http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="SCTV.Id" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png", SCTV HD *
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/162141
 
-#EXTINF:-1 tvg-id="8e550f72149fd448a78d2af58ba4cbb3" tvg-chno="32" tvg-logo="https://i.ibb.co/1bnnKTL/20220926-161758.png" group-title="ID",HBO Signature
-http://103.180.119.90:9911/stream/channelid/1913607566?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.Id" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI HD *
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
 
-#EXTINF:-1 tvg-id="f99bf909afb9dba95c482b359a5b8cc5" tvg-chno="33" tvg-logo="https://i.ibb.co/GkZLVGX/20220926-161740.png" group-title="ID",HBO Family
-http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/vBYPp3z3/DUNIA-ANAK-CM.jpg", Court
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/264753
 
-#EXTINF:-1 tvg-id="fe488ba5f25bc775bff591d8a3291e5d" tvg-chno="34" tvg-logo="https://i.ibb.co/z5HmmGH/20220926-161825.png" group-title="ID",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MoonbugKids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/1598px-Moonbug_Kids.svg.png", MoonbugKids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Boomerang.Id" tvg-logo="https://i.postimg.cc/4d0FTXq3/CARTOONITO.jpg", CARTOONITO.jpg
+https://github.com/andriwibowo2222/tvip/raw/main/cartoonito.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Naruto.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz07oM1M3mgORGCynQefm9EdGZpHAevatmMg&usqp=CAU", NURUTO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="OnePiece.us" tvg-logo="https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest?cb=20140921221019", ONE PIECE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="AnimeAllDay.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXt_49kdS9ULreOYtedji6mLn1qeIM_pwHQw&usqp=CAU", Anime All Day
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", Aniplus HD
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", Aniplus HD
+https://nonton.site:8443/ekos/7483/2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRVcsSBrUNR1x0EIKuIE0C-61GanunPk2CA&usqp=CAU", MENTARI TV
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298546
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKjt6CkstpdY6LIUl1wZjfSJY4e5Y_koZHg&usqp=CAU", My Cinema (V*)
+https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="CitraBioskop.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGYCVBFoiIvdYSe3gQFog_tE_LCIJPrhoWxQ&usqp=CAU", Citra Bioskop
+https://github.com/andriwibowo2222/tvip/raw/main/c-bioskop.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-name="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png", My Family Channel
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="FLIK.id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHw_gY1EXEED5yM4Z3LKYCAPmlWdEjzZyNQ&usqp=CAU", FLIK
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/165095
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI0SQZ9G_jKG2Oyo3BIt5EQIE-yIiv3b1dw&usqp=CAU", ETV BIOSKOP 1
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298526
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI0SQZ9G_jKG2Oyo3BIt5EQIE-yIiv3b1dw&usqp=CAU", ETV BIOSKOP 2
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298527
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI0SQZ9G_jKG2Oyo3BIt5EQIE-yIiv3b1dw&usqp=CAU", ETV BIOSKOP 3
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298528
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI0SQZ9G_jKG2Oyo3BIt5EQIE-yIiv3b1dw&usqp=CAU", ETV BIOSKOP 4
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298529
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="HBO.id" ="INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png", HBO
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+http://208.115.225.174:14136
+https://nonton.site:8443/ekos/7483/26595
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKs_d0lHWTIYnaqu00YgMSY_IyHLtM6r86g&usqp=CAU", HBO2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+http://208.115.225.174:14140
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="HBOSignature.id" tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png", HBO Signature
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+http://208.115.225.174:14160
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="HBOHits.id" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png", HBO Hits
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+https://nonton.site:8443/ekos/7483/26596
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="HBOFamily.id" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png", HBO Family
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+https://nonton.site:8443/ekos/7483/26598
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Cinemax.id" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png", Cinemax HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+https://nonton.site:8443/ekos/7483/2156
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
+
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFgtqsg72wU8a2Xo2Ou8caG1ysoFc8LOYCw&usqp=CAU", Bioskop Indonesia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/73
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RhGiuRwHpC2aA-sDEASe6fUUg7SRChgdxA&usqp=CAU", PonTV
+http://63b2dc7196c38.streamlock.net:1935/ch15/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ChannelJowo.id" tvg-logo="https://dl.dropbox.com/scl/fi/l2e0yba8adweea2wpqm71/Jowo.jpeg?rlkey=x1n6sxplsv3i1wcdmindxgmmf&dl=0", Channel Jowo
+https://h1.intechmedia.net/intech/ch101.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="DhohoTV.id" tvg-logo="http://dhohotv.com/gambar_berita/104/gambar.jpg", Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBsLiRH7bN_pYEM2Fh8Njshd1p42BlwCFdQ&usqp=CAU", KAWANUA TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUn9SlHJq_KPiGYNBbwCQTx_eW4dcZLVUg3A&usqp=CAU", DUNIA LAIN
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298524
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png", DISCOVERY CHANNEL
+https://github.com/andriwibowo2222/tvip/raw/main/disco-ch.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png", Discovery Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/98
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TFN.id" tvg-logo="https://dl.dropbox.com/scl/fi/4q9a0c97qwjcfqi4xd0eo/Food-Network.jpeg?rlkey=1zesucscf4s15vabozighw7nu&dl=0", The Food Network
+https://github.com/subirkumarpaul/My-iptv/raw/main/Food-Network.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="INDONESIA" tvg-id="AsianFoodNetwork.Id" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/dzqy9ouiqxcrwrw/afn.png", AFN
+https://github.com/andriwibowo2222/tvip/raw/main/afn.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHFtQoIXJ3KCRHWg6ykXzWGgIJFDsqZ9IjA&usqp=CAU", Musik Indonesia
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=pramborstv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Prambors.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvHMUfJvryxBoX43-oo8wKqagLde999S3eA&usqp=CAU", Prambors TV
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/264761
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png", Citra Dangdut
+https://github.com/andriwibowo2222/tvip/raw/main/c-dangdut.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="IMTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDRxQ37qlpP3Hlh9Fj_lR0KZdcZevaHQ6_A&usqp=CAU", MCM POP
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63282&extension=ts&play_token=anx82onXEF
+
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="INDONESIA" tvg-id="IQIYI.id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhA-Y1WL9X1kljJW-AjJm-_jd4meMb_eVDA&usqp=CAU", IQIYI
+http://mykingtv.net:2082/amad1234/amad1234/8469
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/rvxizpk5qmtsdc0/natgeo.png", National Geographic
+http://198.16.100.90:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="NATIONALGeographic.Id" tvg-logo="https://dl.dropboxusercontent.com/s/rvxizpk5qmtsdc0/natgeo.png", National Geographic
+http://198.16.100.90:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="INDONESIA" tvg-id="NatGeoWild.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIGis2Fg4L2dH6apNRrnxZgetXjCbuK711A&usqp=CAU", Nat Geo Wild
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/1531
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="AnimalPlanet.Id" tvg-logo="https://dl.dropboxusercontent.com/s/1yhz6ux66qz5dzb/bbcearth.png", Animal Planet EN
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="AnimalPlanet.Id" tvg-logo="https://dl.dropboxusercontent.com/s/1yhz6ux66qz5dzb/bbcearth.png", Animal Planet ID
+https://github.com/andriwibowo2222/tvip/raw/main/animalplan3t.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuG2q5ITa_HK9Ieq14bMa7-RSL6dJcWEaztg&usqp=CAU", VTV
+https://delivery.ksa.my.id/stream/vtv/playlist.m3u8?token=ym1wtrp
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548", Citra Entertainment
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png, ONE PIECE #8(Ended)
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/08-720p.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #7
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/07-720p.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #6
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/06-720p.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #5
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/05-720p.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #4
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/04-720p.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #3
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/03-720p.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #2
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/02-720p.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #1
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/01-720p.mp4
