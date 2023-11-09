@@ -88,23 +88,18 @@ http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298528
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI0SQZ9G_jKG2Oyo3BIt5EQIE-yIiv3b1dw&usqp=CAU", ETV BIOSKOP 4 (V*)
 http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298529
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="HBO.id" ="INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png", HBO (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="INDONESIA" tvg-id="HBOSignature.id" tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png", HBO Signature (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="INDONESIA" tvg-id="HBOHits.id" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png", HBO Hits (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="INDONESIA" tvg-id="HBOFamily.id" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png", HBO Family (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Cinemax.id" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png", Cinemax HD (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 
@@ -177,32 +172,3 @@ https://github.com/andriwibowo2222/tvip/raw/main/animalplan3t.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #1
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/01-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #2
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/02-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #3
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/03-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #4
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/04-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #5
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/05-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #6
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/06-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #7
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/07-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #8(Ended)
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/08-720p.mp4
-
