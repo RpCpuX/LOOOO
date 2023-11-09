@@ -93,7 +93,6 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="HBOSignature.id" tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png", HBO Signature (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
-
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -267,8 +266,8 @@ https://github.com/andriwibowo2222/tvip/raw/main/animalplan3t.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #1
-http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/01-720p.mp4
-￼Enter#EXTINF:-1 group-title="INDONESIA" tvg-id="HBOHits.id" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png", HBO Hits (V*)
+http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/01-720p.mp4￼Enter
+#EXTINF:-1 group-title="INDONESIA" tvg-id="HBOHits.id" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png", HBO Hits (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="HBOFamily.id" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png", HBO Family (V*)
@@ -293,8 +292,7 @@ https://h1.intechmedia.net/intech/ch101.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="INDONESIA" tvg-id="DhohoTV.id" tvg-logo="http://dhohotv.com/gambar_berita/104/gambar.jpg", Dhoho TV (V*)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-F:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBsLiRH7bN_pYEM2Fh8Njshd1p42BlwCFdQ&usqp=CAU", KAWANUA TV (F*)
+NF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBsLiRH7bN_pYEM2Fh8Njshd1p42BlwCFdQ&usqp=CAU", KAWANUA TV (F*)
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -319,4 +317,3 @@ https://github.com/subirkumarpaul/My-iptv/raw/main/Food-Network.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="INDONESIA" tvg-id="AsianFoodNetwork.Id" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/dzqy9ouiqxcrwrw/afn.png", AFN (V*)
 https://github.com/andriwibowo2222/tvip/raw/main/afn.m3u8
-
