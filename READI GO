@@ -1001,7 +1001,7 @@ https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 7
+#EXTINF:-1 tvg-logo=https://www.blibli.com/friends-backend/wp-content/uploads/2019/07/mola-tv.png", group-title="LIVE EVENT", Event MolaTV 7
 https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 ########################################  MOTO SPORTS ########################################
