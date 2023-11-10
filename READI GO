@@ -290,11 +290,8 @@ http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV 2
+#EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/svda56px53dzs70/jtv.png", JTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-
-#EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/siolbyggijbn3f9/magna.png", MAGNA TV
-http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
 #EXTINF:-1 tvg-name="TV" tvg-logo="https://dl.dropbox.com/s/z6in94w88gx9t7a/MGS%20Tv.jpeg" group-title="LOKAL CHANNELS", MGS TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
@@ -1078,7 +1075,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/ind
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/295342138_574640377510664_8170651909442167396_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqQO4TXpc53GTdv6AoKChDIAYM_ZsGzc4gBgz9mwbNzpiQRvPFasIdbiv8EqcYKNTmfb8XI7faQNs3D8pG679I&_nc_ohc=vB1oc7HcAjYAX8eKFGK&_nc_ht=scontent-sin6-2.xx&oh=00_AfC5v_1YDBZ7xG4DkWbOvtmAQ0eYL9L5eGu0J4l0IGmC7g&oe=65501832", group-title="LIVE EVENT", Event MolaTV 6
+#EXTINF:-1 tvg-logo="https://www.blibli.com/friends-backend/wp-content/uploads/2019/07/mola-tv.png", group-title="LIVE EVENT", Event MolaTV 6
 https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1169,10 +1166,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="ANIME TV" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", Aniplus HD (V*)
-https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="ANIME TV" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #1
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/01-720p.mp4
 
@@ -1203,10 +1196,6 @@ http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/07-720p.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="ANIME TV" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #8(Ended)
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/08-720p.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANIME TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg", ANIPLUS
-https://mantul.biz.id:443/ekos/748382/265.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1359,9 +1348,6 @@ https://dl.dropbox.com/s/cmgxvpx7pvoj9kr/NOAH%20-%20Separuh%20Aku%20%28Official%
 
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD AMANDA - ALHAMDULILLAH
 https://dl.dropbox.com/s/j0b599sv6azs9yu/Opick%20ft.%20Amanda%20-%20Alhamdulillah%20%28Lirik%29.mp4?dl=0.m3u8
-
-#EXTINF:-1 tvg-logo="group-title="INDO MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png", CITRA DANGDUT
-https://pizztv.qreatifku.my.id/cdnweb/CitraDangdut.m3u8
 
 ########################################  WEST MUSIC  ########################################
 
@@ -1595,44 +1581,8 @@ http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/h8sku4kxmhhi6bc/inspira.png" group-title="INDO NEWS BERITA", INSPIRA TV (V*)
-https://pizztv.qreatifku.my.id/cdnweb/inspiratv.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tqsro9x223hoe79/Jawapos%20tv.jpeg" group-title="INDO NEWS BERITA", JAWA POS TV (V*)
-https://pizztv.qreatifku.my.id/cdnweb/jawapostv.m3u8
-
-#EXTINF:-1 tvg-logo="https://metroindonesia.co/wp-content/uploads/2022/03/IMG_20220317_090223.jpg" group-title="INDO NEWS BERITA", BERITA SATU WORLD (V*)
-https://pizztv.qreatifku.my.id/cdnweb/B1World.m3u8
-
-#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://metroindonesia.co/wp-content/uploads/2022/03/IMG_20220317_090223.jpg" group-title="INDO NEWS BERITA", BERITA SATU
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/BeritaSatu.mpd
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hv0plztzfv35e8h/cnbcindo.png" group-title="INDO NEWS BERITA", CNBC INDONESIA (V*)
-https://pizztv.qreatifku.my.id/cdnweb/CNBCInd.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2iu0ade1fd1dgk2/cnn.png" group-title="INDO NEWS BERITA", CNN INDONESIA
-https://pizztv.qreatifku.my.id/cdnweb/CNNInd.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent.fsub8-2.fna.fbcdn.net/v/t39.30808-6/298743220_10160832100226435_773223408052649856_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEBFc9Lc9OJM65XOOZFoWkFXlm2iLpHh7ReWbaIukeHtGyAzxzH7C1Pe5zLvNQVymv1u_EecqPZf1nBSwZXxJbH&_nc_ohc=-EkbTfh_ZDwAX-dLBQa&_nc_ht=scontent.fsub8-2.fna&oh=00_AfBZdvKJBgbAGLiViXG1vlH8unlzi1kkrLMoopUi5ibBsw&oe=654CF6FE" group-title="INDO NEWS BERITA", LIPUTAN 6
+#EXTINF:-1 tvg-logo="https://cdn-liputan6-apps.akamaized.net/assets/img/liputan/og_image.jpg" group-title="INDO NEWS BERITA", LIPUTAN 6
 https://pizztv.qreatifku.my.id/cdnweb/Liputan6.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="INDO NEWS BERITA", METRO GLOBE NEWS (V*)
-https://pizztv.qreatifku.my.id/cdnweb/MetroGlobeNews.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="INDO NEWS BERITA", ANTARA TV
-https://pizztv.qreatifku.my.id/cdnweb/AntaraTV.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnvHtAvpCpAFOc5OEGxlMDC3p7TsDXzsMSjVUoGH4Vp2oPdPub_QtbxVAjcn45TQU77lo&usqp=CAU" group-title="INDO NEWS BERITA", RRI NET
-https://pizztv.qreatifku.my.id/cdnweb/RRINet.m3u8
-
-#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/sds4h9k6agurww8/idx.png" group-title="INDO NEWS BERITA", IDX CHANNEL (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/IDX.mpd
 
 ########################################  GAMING WORLD ########################################
 
@@ -1648,59 +1598,6 @@ https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
 https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/xfv0o53chpd82im/wion.png" group-title="WEST NEWS", WION (V*)
-https://pizztv.qreatifku.my.id/cdnweb/WION.m3u8
-
-#KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jtg0usmurm661e0/images%20%282%29.jpeg" group-title="WEST NEWS", FOX NEWS (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/FoxNews.mpd
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/82x2nvrx6fb2l6i/images%20%281%29.png" group-title="WEST NEWS", NBC NEWS (V*)
-https://pizztv.qreatifku.my.id/cdnweb/NBCNews.m3u8
-
-#KODIPROP:inputstream.adaptive.license_key=6df0fb73048c4119bf0ac5634f71b6b6:1517deb7cf9ab678274523e14fffe1ac
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/NEWS/original/NEWS.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="WEST NEWS", SSC NEWS
-https://pizztv.qreatifku.my.id/cdnweb/SSCNews.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hi0cxx8owmpxuv5/bbcworldnews.png" group-title="WEST NEWS", BBC NEWS (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/BBCWorldNews.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/f8rrceinyjx9x92/images%20%286%29.jpeg" group-title="WEST NEWS", CGTN (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/CGTN.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48MOof-WyyINoGv4bfPcv-_LHvcBWzeLvUq4Az_TCggqDkhfaWJW9MewTGR5_hY84tWk&usqp=CAU" group-title="WEST NEWS", CNBC INTERNATIONAL (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/CNBC.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8w3agoiq11avx0i/dw.png" group-title="WEST NEWS", DW ENGLISH (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/DW.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ictxv54kmv9rqt4/trtworld.png" group-title="WEST NEWS", TRT WORLD (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/TRTWorld.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_ru_english.png" group-title="WEST NEWS", RT ENGLISH (V*)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://pizztv.qreatifku.my.id/cdnweb/RTEnglish.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="GAMING WORLD" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay
@@ -1709,9 +1606,6 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="LOKAL ENTERTAIN", USEE PRIME (V*)
 https://pizztv.qreatifku.my.id/cdnweb/UseePrime.mpd
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="LOKAL ENTERTAIN", DIGIONE (V*)
-https://pizztv.qreatifku.my.id/cdnweb/Digione.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
