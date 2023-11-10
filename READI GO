@@ -402,37 +402,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tqsro9x223hoe79/Jawapos%20tv.jpeg" group-title="INDO NEWS BERITA", Jawa Pos TV 2
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-########################################  INDO-MLY MOVIE ########################################
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDO-MLY MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUn9SlHJq_KPiGYNBbwCQTx_eW4dcZLVUg3A&usqp=CAU", DUNIA LAIN (V*)
-http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298524
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDO-MLY MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI0SQZ9G_jKG2Oyo3BIt5EQIE-yIiv3b1dw&usqp=CAU", ETV BIOSKOP 4 (V*)
-http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298526
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/97dmg4rodbnm0gh/imc.png" group-title="INDO-MLY MOVIE", IMC
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="INDO-MLY MOVIE", DIGIONE
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-
-#EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="INDO-MLY MOVIE", Digione (Max)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO-MLY MOVIE", DUNIA SINEMA
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/swpb44zffvl7zk1/visionprime.png" group-title="INDO-MLY MOVIE", VISION PRIME
-https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
 ########################################  RELIGI CHANNEL  ########################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -489,6 +458,37 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="RELIGI CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", AL HIJRAH TV
 https://1.yurend.xyz/dash-wv/linear/1113/default_primary.mpd
+
+########################################  INDO-MLY MOVIE ########################################
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDO-MLY MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUn9SlHJq_KPiGYNBbwCQTx_eW4dcZLVUg3A&usqp=CAU", DUNIA LAIN (V*)
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298524
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="INDO-MLY MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI0SQZ9G_jKG2Oyo3BIt5EQIE-yIiv3b1dw&usqp=CAU", ETV BIOSKOP 4 (V*)
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298526
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/97dmg4rodbnm0gh/imc.png" group-title="INDO-MLY MOVIE", IMC
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="INDO-MLY MOVIE", DIGIONE
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+#EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="INDO-MLY MOVIE", Digione (Max)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="INDO-MLY MOVIE", DUNIA SINEMA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/swpb44zffvl7zk1/visionprime.png" group-title="INDO-MLY MOVIE", VISION PRIME
+https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 ########################################  WEST CHANNEL & MOVIE ########################################
 
@@ -1397,27 +1397,27 @@ https://pizztv.qreatifku.my.id/cdnweb/ClubbingTV.m3u8
 ######################################## VOD BIOSKOP INDO ########################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://github.com/RpCpuX/LOOOO/blob/main/filmbioskopindo.jpg" group-title="VOD BIOSKOP INDO",Aku Lupa Aku Luka
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMf2ZLWA8A_IGhNX0AnfYCkYXtbBWwe1B4g&usqp=CAU" group-title="VOD BIOSKOP INDO",Aku Lupa Aku Luka
 https://www.googleapis.com/drive/v3/files/19bQnNLIyybMbujHtsXr2xeiI-b2HNoZB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://github.com/RpCpuX/LOOOO/blob/main/filmbioskopindo.jpg" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 4 (2020)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMf2ZLWA8A_IGhNX0AnfYCkYXtbBWwe1B4g&usqp=CAU" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 4 (2020)
 https://www.googleapis.com/drive/v3/files/1UdAXo8vkJ2KWLh_yvhmqVLjsM7jRdTSb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://github.com/RpCpuX/LOOOO/blob/main/filmbioskopindo.jpg" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 3 (2019)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMf2ZLWA8A_IGhNX0AnfYCkYXtbBWwe1B4g&usqp=CAU" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 3 (2019)
 https://www.googleapis.com/drive/v3/files/17-oEnc4cewfvp8a0Kt63eC8fsVaEA_fl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://github.com/RpCpuX/LOOOO/blob/main/filmbioskopindo.jpg" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 2 (2017)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMf2ZLWA8A_IGhNX0AnfYCkYXtbBWwe1B4g&usqp=CAU" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 2 (2017)
 https://www.googleapis.com/drive/v3/files/1V-rl0DYkVRwRLn8NbZUSZDV94ERRbgJm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://github.com/RpCpuX/LOOOO/blob/main/filmbioskopindo.jpg" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMf2ZLWA8A_IGhNX0AnfYCkYXtbBWwe1B4g&usqp=CAU" group-title="VOD BIOSKOP INDO",Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016)
 https://www.googleapis.com/drive/v3/files/1X50_Pk5SDrfoXe_ol7RwiD5xHCScSQPS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://github.com/RpCpuX/LOOOO/blob/main/filmbioskopindo.jpg" group-title="VOD BIOSKOP INDO",Dongkrak Antik (1982)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMf2ZLWA8A_IGhNX0AnfYCkYXtbBWwe1B4g&usqp=CAU" group-title="VOD BIOSKOP INDO",Dongkrak Antik (1982)
 https://storage.googleapis.com/c0bdaf0bc060292fb3a.appspot.com/05ad4ec7756d92921409243dcd0bbc75_1668776586.mp4?sumber=awal_storage
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
