@@ -7,10 +7,10 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-menu="lokal" group-title="TVRI CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png", TVRI Nasional 1
+#EXTINF:-1 group-name="lokal" group-title="TVRI CHANNEL|asem" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png", TVRI Nasional 1
 http://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 group-menu="maju" tvg-id="kecut" tvg-name="kecut" tvg-logo="https://dl.dropboxusercontent.com/s/p7y7domrmfxjo1j/tvrisport.png" group-title="TVRI CHANNEL", TVRI Sports
+#EXTINF:-1 group-name="maju" tvg-id="kecut" tvg-name="kecut" tvg-logo="https://dl.dropboxusercontent.com/s/p7y7domrmfxjo1j/tvrisport.png" group-title="TVRI CHANNEL", TVRI Sports
 http://210.210.155.37/uq2663/h/h238/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
